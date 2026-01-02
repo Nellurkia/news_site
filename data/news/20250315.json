@@ -1,0 +1,90 @@
+{
+  "id": "20250315",
+  "startDate": "2025-03-15",
+  "endDate": null,
+  "title": {
+    "zh": "天津：2025世界血友病日主题宣传活动",
+    "en": "Tianjin: 2025 World Hemophilia Day Promotional Activities"
+  },
+  "subtitle": {
+    "zh": "血友病医学赋能培训会",
+    "en": "Hemophilia Medical Empowerment Training Conference"
+  },
+  "description": {
+    "zh": "「2025世界血友病日主题宣传活动」&血友病医学赋能培训会在天津举行，由中国医学科学院血液病医院血栓止血诊疗中心，天津医科大学总医院康复医学科、天津市红十字基金会、天津市友爱罕见病关爱服务中心共同举办。血友姐妹会的负责人左钰洁在天津血友病医学赋能培训会的圆桌讨论环节发言。",
+    "en": "The '2025 World Hemophilia Day Promotional Activities' & Hemophilia Medical Empowerment Training Conference was held in Tianjin, jointly organized by the Thrombosis and Hemostasis Diagnosis and Treatment Center of the Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences, Department of Rehabilitation Medicine of Tianjin Medical University General Hospital, Tianjin Red Cross Foundation, and Tianjin Friendship Rare Disease Care Service Center. Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team, spoke at the roundtable discussion session of the Tianjin Hemophilia Medical Empowerment Training Conference."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250315/20250315 (1)_thumbnail.jpg",
+      "full": "assets/images/20250315/20250315 (1).jpg",
+      "alt": "培训会现场",
+      "title": {
+        "zh": "血友病医学赋能培训会现场",
+        "en": "Hemophilia Medical Empowerment Training Conference Scene"
+      },
+      "description": {
+        "zh": "2025世界血友病日主题宣传活动暨血友病医学赋能培训会现场",
+        "en": "Scene from 2025 World Hemophilia Day promotional activities and medical empowerment training conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250315/20250315 (1)_thumbnail.png",
+      "full": "assets/images/20250315/20250315 (1).png",
+      "alt": "圆桌讨论",
+      "title": {
+        "zh": "圆桌讨论环节",
+        "en": "Roundtable Discussion Session"
+      },
+      "description": {
+        "zh": "左钰洁在圆桌讨论环节发言，分享血友病女性关爱工作经验",
+        "en": "Yujie (Ruby) Zuo speaking at the roundtable discussion, sharing experiences in hemophilia women's care work"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250315/20250315 (2)_thumbnail.jpg",
+      "full": "assets/images/20250315/20250315 (2).jpg",
+      "alt": "会议合影",
+      "title": {
+        "zh": "培训会参会人员合影",
+        "en": "Group Photo of Conference Participants"
+      },
+      "description": {
+        "zh": "天津血友病医学赋能培训会参会专家和代表合影留念",
+        "en": "Group photo of experts and representatives at Tianjin Hemophilia Medical Empowerment Training Conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250315/20250315 (3)_thumbnail.jpg",
+      "full": "assets/images/20250315/20250315 (3).jpg",
+      "alt": "活动横幅",
+      "title": {
+        "zh": "活动主题横幅",
+        "en": "Event Theme Banner"
+      },
+      "description": {
+        "zh": "2025世界血友病日主题宣传活动的会场横幅",
+        "en": "Venue banner for 2025 World Hemophilia Day promotional activities"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1XUoMYhEoY",
+      "title": {
+        "zh": "培训会视频回顾",
+        "en": "Training Conference Video Review"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/WghwxPsag_Qr3ofEYVAPpg",
+      "title": {
+        "zh": "微信公众号：培训会详细报道",
+        "en": "WeChat: Detailed Training Conference Report"
+      }
+    }
+  ]
+}

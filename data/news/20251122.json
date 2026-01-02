@@ -1,0 +1,103 @@
+{
+  "id": "20251122",
+  "startDate": "2025-11-22",
+  "endDate": null,
+  "title": {
+    "zh": "武汉：2025华中区第二届血友病合作交流会",
+    "en": "Wuhan: 2025 2nd Central China Hemophilia Cooperation and Exchange Conference"
+  },
+  "subtitle": {
+    "zh": "多省市组织赋能会",
+    "en": "Multi-provincial and Municipal Organization Empowerment Conference"
+  },
+  "description": {
+    "zh": "2025华中区第二届血友病合作交流会暨多省市组织赋能会在武汉举行。左钰洁以“关爱女性血友病患者 国内外最新进展”为题，展开公益科普宣讲，分享国内外在女性血友病患者关爱领域的最新研究进展和实践经验。",
+    "en": "The 2nd Central China Hemophilia Cooperation and Exchange Conference and Multi-provincial and Municipal Organization Empowerment Conference 2025 was held in Wuhan. Yujie (Ruby) Zuo gave a public welfare science lecture titled 'Caring for Women with Hemophilia: Latest Domestic and International Progress', sharing the latest research progress and practical experience in the field of women with hemophilia care both domestically and internationally."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20251122/20251122 (1)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (1).jpg",
+      "alt": "合照",
+      "title": {
+        "zh": "华中区血友病合作交流会合照",
+        "en": "Central China Hemophilia Conference Group Photo"
+      },
+      "description": {
+        "zh": "参会人员合影留念",
+        "en": "Conference participants group photo"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251122/20251122 (2)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (2).jpg",
+      "alt": "宣讲照片",
+      "title": {
+        "zh": "公益科普宣讲",
+        "en": "Public Welfare Science Lecture"
+      },
+      "description": {
+        "zh": "左钰洁进行女性血友病患者关爱主题宣讲",
+        "en": "Yujie (Ruby) Zuo giving lecture on caring for women with hemophilia"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251122/20251122 (3)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (3).jpg",
+      "alt": "宣讲互动照片",
+      "title": {
+        "zh": "宣讲互动交流",
+        "en": "Lecture Interactive Exchange"
+      },
+      "description": {
+        "zh": "宣讲现场与参会者互动交流",
+        "en": "Interactive exchange with participants during the lecture"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251122/20251122 (4)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (4).jpg",
+      "alt": "宣讲",
+      "title": {
+        "zh": "学术宣讲现场",
+        "en": "Academic Lecture Scene"
+      },
+      "description": {
+        "zh": "分享国内外女性血友病患者关爱最新进展",
+        "en": "Sharing latest progress in women with hemophilia care domestically and internationally"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251122/20251122 (5)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (5).jpg",
+      "alt": "合照",
+      "title": {
+        "zh": "会议合影",
+        "en": "Conference Group Photo"
+      },
+      "description": {
+        "zh": "华中区血友病合作交流会参会人员合影",
+        "en": "Central China Hemophilia Conference participants group photo"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1N8vXBjEfK",
+      "title": {
+        "zh": "华中区血友病合作交流会视频",
+        "en": "Central China Hemophilia Cooperation and Exchange Conference Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/-0j9MO-4omawaP_x5YRurw",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": "WeChat: Related Report"
+      }
+    }
+  ]
+}

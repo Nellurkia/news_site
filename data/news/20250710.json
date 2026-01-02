@@ -1,0 +1,42 @@
+{
+  "id": "20250710",
+  "startDate": "2025-07-10",
+  "endDate": null,
+  "title": {
+    "zh": "线上：WFH国际政策和可及性峰会",
+    "en": "Online: WFH Global Policy and Access Summit"
+  },
+  "subtitle": {
+    "zh": "2025年国际政策和可及性峰会",
+    "en": "2025 Global Policy and Access Summit"
+  },
+  "description": {
+    "zh": "血友姐妹会负责人左钰洁参与世界血友病联盟（World Federation of Hemophilia，WFH）的2025年国际政策和可及性峰会（2025 Global Policy and Access Summit，GPAS）。这是一次重要的国际会议，汇聚了全球血友病领域的专家学者和患者代表，共同探讨血友病治疗的政策制定和药物可及性问题。",
+    "en": "Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team, participated in the 2025 Global Policy and Access Summit (GPAS) organized by the World Federation of Hemophilia (WFH). This is an important international conference that brings together experts, scholars, and patient representatives from the global hemophilia field to jointly discuss policy formulation and drug accessibility issues in hemophilia treatment."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250710/Badges-1_thumbnail.png",
+      "full": "assets/images/20250710/Badges-1.png",
+      "alt": "WFH峰会徽章",
+      "title": {
+        "zh": "WFH 2025 GPAS参会徽章",
+        "en": "WFH 2025 GPAS Participation Badge"
+      },
+      "description": {
+        "zh": "世界血友病联盟2025年国际政策和可及性峰会参会徽章",
+        "en": "Participation badge for World Federation of Hemophilia 2025 Global Policy and Access Summit"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/OluhM_idKwGPptwo6bmVog?token=1426548150&lang=zh_CN",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": "WeChat: Related Report"
+      }
+    }
+  ]
+}

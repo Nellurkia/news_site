@@ -1,0 +1,51 @@
+{
+  "id": "20251011",
+  "startDate": "2025-10-11",
+  "endDate": null,
+  "title": {
+    "zh": "地点：活动名称",
+    "en": ""
+  },
+  "subtitle": {
+    "zh": "性质",
+    "en": ""
+  },
+  "description": {
+    "zh": "描述",
+    "en": ""
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (1).jpg",
+      "alt": "……现场",
+      "title": {
+        "zh": "……现场",
+        "en": ""
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      }
+    }
+  ],
+    "videos": [
+    {
+      "platform": "bilibili",
+      "id": "",
+      "title": {
+        "zh": "……视频",
+        "en": ""
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": ""
+      }
+    }
+  ]
+}

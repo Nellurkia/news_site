@@ -1,0 +1,150 @@
+{
+  "id": "20240905",
+  "startDate": "2024-09-05",
+  "endDate": null,
+  "title": {
+    "zh": "线上：腾讯公益《携带者检测援助》项目启动",
+    "en": "Online: Tencent Charity 'Carrier Testing Assistance' Project Launch"
+  },
+  "subtitle": {
+    "zh": "血友病女性关爱公益项目正式上线",
+    "en": "Hemophilia Women's Care Charity Project Officially Launched"
+  },
+  "description": {
+    "zh": "在腾讯公益久久公益节期间，南昌市血之友公益协会在南昌市慈善总会指导下，由左国良和左钰洁申请的《携带者检测援助》项目正式启动。左钰洁制作了专业的项目宣传海报和视频，为血友病女性携带者提供检测费用援助，这是国内首个专门针对血友病女性群体的公益援助项目。",
+    "en": "During Tencent Charity's 99 Giving Day, the 'Carrier Testing Assistance' project applied for by Zuo Guoliang and Yujie (Ruby) Zuo from Nanchang Hemophilia Association was officially launched under the guidance of Nanchang Charity Federation. Yujie (Ruby) Zuo created professional project promotional posters and videos to provide testing cost assistance for female hemophilia carriers, marking the first charity assistance project in China specifically targeting women with hemophilia."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240905/20240905 (2)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (2).png",
+      "alt": "项目宣传海报",
+      "title": {
+        "zh": "携带者检测援助项目海报",
+        "en": "Carrier Testing Assistance Project Poster"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目的官方宣传海报，展示项目核心理念和服务内容",
+        "en": "Official promotional poster for the 'Carrier Testing Assistance' project, showcasing the core concept and service content"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (9)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (9).png",
+      "alt": "宣传视频封面",
+      "title": {
+        "zh": "宣传视频封面",
+        "en": "Promotional Video Cover"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频的封面图片，展示项目的核心信息和视觉设计",
+        "en": "Cover image of the promotional video for the 'Carrier Testing Assistance' project, showcasing the core information and visual design of the project"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (3)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (3).png",
+      "alt": "宣传视频封面",
+      "title": {
+        "zh": "宣传视频封面",
+        "en": "Promotional Video Cover"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频的封面图片，展示项目的核心信息和视觉设计",
+        "en": "Cover image of the promotional video for the 'Carrier Testing Assistance' project, showcasing the core information and visual design of the project"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (4)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (4).png",
+      "alt": "宣传视频封面",
+      "title": {
+        "zh": "宣传视频封面",
+        "en": "Promotional Video Cover"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频的封面图片，展示项目的核心信息和视觉设计",
+        "en": "Cover image of the promotional video for the 'Carrier Testing Assistance' project, showcasing the core information and visual design of the project"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (5)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (5).png",
+      "alt": "宣传视频截图",
+      "title": {
+        "zh": "宣传视频截图",
+        "en": "Promotional Video Screenshot"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频中的关键画面截图，展示科普信息",
+        "en": "Key frame screenshot from the promotional video of the 'Carrier Testing Assistance' project, showing educational information"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (8)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (8).png",
+      "alt": "宣传视频截图",
+      "title": {
+        "zh": "宣传视频截图",
+        "en": "Promotional Video Screenshot"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频中的关键画面截图，展示科普信息",
+        "en": "Key frame screenshot from the promotional video of the 'Carrier Testing Assistance' project, showing educational information"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (6)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (6).png",
+      "alt": "宣传视频截图",
+      "title": {
+        "zh": "宣传视频截图",
+        "en": "Promotional Video Screenshot"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频中的关键画面截图，展示科普信息",
+        "en": "Key frame screenshot from the promotional video of the 'Carrier Testing Assistance' project, showing educational information"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240905/20240905 (7)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (7).png",
+      "alt": "宣传视频截图",
+      "title": {
+        "zh": "宣传视频截图",
+        "en": "Promotional Video Screenshot"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目宣传视频中的关键画面截图，展示科普信息",
+        "en": "Key frame screenshot from the promotional video of the 'Carrier Testing Assistance' project, showing educational information"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1qHpPe9EFh",
+      "title": {
+        "zh": "项目宣传横屏长视频",
+        "en": "Project Promotional Video"
+      }
+    },
+    {
+      "platform": "bilibili",
+      "id": "BV1EjHXebESz",
+      "title": {
+        "zh": "项目宣传竖屏短视频",
+        "en": "Project Promotional Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/gOd0On7n0nIyoHXg80euHQ",
+      "title": {
+        "zh": "微信公众号：项目启动公告",
+        "en": "WeChat: Project Launch Announcement"
+      }
+    }
+  ]
+}

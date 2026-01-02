@@ -1,0 +1,42 @@
+{
+  "id": "20251214",
+  "startDate": "2025-12-14",
+  "endDate": null,
+  "title": {
+    "zh": "北京：队列共享平台年会",
+    "en": "Beijing: Cohort Sharing Platform Annual Conference"
+  },
+  "subtitle": {
+    "zh": "学术交流与合作",
+    "en": "Academic Exchange and Cooperation"
+  },
+  "description": {
+    "zh": "队列共享平台年会在北京举行，左钰洁参会并与来自全国各地的研究团队进行学术交流。会议聚焦队列研究的数据共享、协作机制和研究成果转化，为推动我国队列研究的高质量发展提供平台。",
+    "en": "The Cohort Sharing Platform Annual Conference was held in Beijing. Yujie (Ruby) Zuo attended and engaged in academic exchanges with research teams from across the country. The conference focused on data sharing, collaboration mechanisms, and research outcome translation in cohort studies, providing a platform to promote high-quality development of cohort research in China."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20251214/20251214_thumbnail.png",
+      "full": "assets/images/20251214/20251214.png",
+      "alt": "学术会议照片",
+      "title": {
+        "zh": "队列共享平台年会现场",
+        "en": "Cohort Sharing Platform Annual Conference Scene"
+      },
+      "description": {
+        "zh": "队列共享平台年会学术交流现场",
+        "en": "Academic exchange scene at the Cohort Sharing Platform Annual Conference"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/U1c-As7f_KismyscVHPtyQ",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": "WeChat: Related Report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "20250426",
+  "startDate": "2025-04-26",
+  "endDate": null,
+  "title": {
+    "zh": "修水：血友病女性家属公益检测活动",
+    "en": "Xiushui: Hemophilia Female Family Members Charity Testing Activity"
+  },
+  "subtitle": {
+    "zh": "送检到县服务延续",
+    "en": "Bringing Testing to Counties Service Continues"
+  },
+  "description": {
+    "zh": "南昌血之友公益协会赴修水县开展血友病女性家属公益检测活动，延续「携带者检测援助」项目，帮助13名女性做凝血检测。这次活动进一步将专业检测服务延伸到更多县级地区，体现了项目在基层推广中的持续努力，让偏远地区的女性也能享受到便民的健康检测服务。",
+    "en": "Nanchang Hemophilia Association went to Xiushui County to conduct charity testing activities for female family members of hemophilia patients, continuing the 'Carrier Testing Assistance' project and helping 13 women with coagulation testing. This activity further extended professional testing services to more county-level areas, reflecting the project's continuous efforts in grassroots promotion, allowing women in remote areas to also enjoy convenient health testing services."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250426/20250426_thumbnail.png",
+      "full": "assets/images/20250426/20250426.png",
+      "alt": "修水检测活动",
+      "title": {
+        "zh": "修水县检测活动现场",
+        "en": "Xiushui County Testing Activity Scene"
+      },
+      "description": {
+        "zh": "修水县血友病女性家属公益检测活动现场，13名女性接受专业检测服务",
+        "en": "Scene from Xiushui County hemophilia female family members charity testing activity, with 13 women receiving professional testing services"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/ubTyTgMIQY_CkINLuNVhhw",
+      "title": {
+        "zh": "微信公众号：修水检测活动报道",
+        "en": "WeChat: Xiushui Testing Activity Report"
+      }
+    }
+  ]
+}

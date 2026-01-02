@@ -1,0 +1,60 @@
+{
+  "id": "20250312",
+  "startDate": "2025-03-12",
+  "endDate": null,
+  "title": {
+    "zh": "武汉：大学生创新创业学科交叉项目申请",
+    "en": "Wuhan: Application for Interdisciplinary Innovation and Entrepreneurship Project"
+  },
+  "subtitle": {
+    "zh": "血友姐妹会团队成立",
+    "en": "Hemophilia Sisters Team Established"
+  },
+  "description": {
+    "zh": "在华中科技大学申请了大学生创新创业学科交叉项目「中国血友病女性携带者基因检测、凝血因子与出血情况的调查和分析」，2位指导老师分别来自华中科技大学数学与统计学院、华中科技大学同济医学院公共卫生学院，负责人是左钰洁，4位队友分别是数学与统计学院的安心宇、公共卫生学院的何洋帆、姚婷耀、生命科学学院的万嘉瑞。团队取名「血友姐妹会」。",
+    "en": "Applied for the College Students' Innovation and Entrepreneurship Interdisciplinary Project 'Investigation and Analysis of Genetic Testing, Coagulation Factors and Bleeding Conditions of Chinese Female Hemophilia Carriers' at Huazhong University of Science and Technology. Two supervisors are from the School of Mathematics and Statistics and the School of Public Health of Tongji Medical College respectively. The project leader is Yujie (Ruby) Zuo, with 4 team members: An Xinyu from School of Mathematics and Statistics, He Yangfan and Yao Tingyao from School of Public Health, and Wan Jiarui from School of Life Science. The team is named 'Hemophilia Sisters'."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250312/20250312 (1)_thumbnail.jpg",
+      "full": "assets/images/20250312/20250312 (1).jpg",
+      "alt": "血友姐妹会团队",
+      "title": {
+        "zh": "血友姐妹会团队介绍",
+        "en": "Hemophilia Sisters Team Introduction"
+      },
+      "description": {
+        "zh": "血友姐妹会团队成员介绍和项目概况",
+        "en": "Introduction of Hemophilia Sisters team members and project overview"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250312/20250312 (1)_thumbnail.png",
+      "full": "assets/images/20250312/20250312 (1).png",
+      "alt": "项目申请书",
+      "title": {
+        "zh": "大创项目申请",
+        "en": "Innovation Project Application"
+      },
+      "description": {
+        "zh": "大学生创新创业学科交叉项目申请书",
+        "en": "College Students' Innovation and Entrepreneurship Interdisciplinary Project Application"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250312/20250312 (2)_thumbnail.png",
+      "full": "assets/images/20250312/20250312 (2).png",
+      "alt": "项目研究内容",
+      "title": {
+        "zh": "项目研究方案",
+        "en": "Project Research Plan"
+      },
+      "description": {
+        "zh": "中国血友病女性携带者基因检测、凝血因子与出血情况调查分析的研究方案",
+        "en": "Research plan for investigating genetic testing, coagulation factors and bleeding conditions of Chinese female hemophilia carriers"
+      }
+    }
+  ],
+  "videos": [],
+  "links": []
+}

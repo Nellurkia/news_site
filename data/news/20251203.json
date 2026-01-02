@@ -1,0 +1,37 @@
+{
+  "id": "20251203",
+  "startDate": "2025-12-03",
+  "endDate": null,
+  "title": {
+    "zh": "北京：2025可持续社会价值创新大会（S大会）",
+    "en": "Beijing: 2025 Sustainable Social Value Innovation Conference (S Conference)"
+  },
+  "subtitle": {
+    "zh": "腾讯技术公益SSV·罕见病AI赋能青年介绍",
+    "en": "Tencent SSV Tech for Social Good · Rare Disease AI-Empowered Youth Introduction"
+  },
+  "description": {
+    "zh": "2025年12月3日，2025可持续社会价值创新大会（S大会）在北京中关村国际创新中心举行。本届大会由联合国驻华协调员办公室、中国企业改革与发展研究会、清华大学可持续社会价值研究院、腾讯可持续社会价值事业部共同主办。腾讯SSV副总裁、技术生态部负责人李哲介绍Light创造营青年AI公益创新创业计划。<p><p>其中，李哲老师提到，在走遍各大学过程中，他看见一位来自罕见病家庭、并利用AI开发罕见病女性人群健康管理工具的青年“小左”——眼里的“光”。他表达，腾讯将与有志青年和社会专业力量一起，持续关注可持续发展议题，探索技术公益解决方案，为公益领域注入科技新动能。",
+    "en": "On December 3, 2025, the 2025 Sustainable Social Value Innovation Conference (S Conference) was held at Zhongguancun International Innovation Center in Beijing. The conference was co-hosted by the United Nations Resident Coordinator's Office in China, China Enterprise Reform and Development Society, Institute for Sustainable Social Value at Tsinghua University, and Tencent Sustainable Social Value Division. Li Zhe, Vice President of Tencent SSV and Head of Technology Ecosystem Department, introduced the Light Camp Youth AI Public Welfare Innovation and Entrepreneurship Program. Among them, Mr. Li Zhe mentioned that during his visits to various universities, he saw a young person 'Xiao Zuo' from a rare disease family who developed health management tools for women with rare diseases using AI - the 'light' in her eyes. Tencent will work together with aspiring youth and professional social forces to continue focusing on sustainable development issues, explore tech for social good solutions, and inject new technological momentum into the public welfare sector."
+  },
+  "images": [],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV15GvXBZEuJ",
+      "title": {
+        "zh": "S大会现场视频",
+        "en": "S Conference Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/vuCcSOH4E2MKkR3h8qNQgQ",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": "WeChat: Related Report"
+      }
+    }
+  ]
+}

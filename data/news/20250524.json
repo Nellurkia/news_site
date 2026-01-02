@@ -1,0 +1,65 @@
+{
+  "id": "20250524",
+  "startDate": "2025-05-24",
+  "endDate": null,
+  "title": {
+    "zh": "杭州：共融关爱 赋能未来",
+    "en": "Hangzhou: Inclusive Care, Empowering the Future"
+  },
+  "subtitle": {
+    "zh": "华东区血友病多方关爱暨组织赋能交流会",
+    "en": "East China Hemophilia Multi-party Care and Organizational Empowerment Exchange Conference"
+  },
+  "description": {
+    "zh": "「共融关爱 赋能未来」华东区血友病多方关爱暨组织赋能交流会在杭州隆重举行。血友姐妹会负责人左钰洁同学以《正视血友病女性的诊断、治疗、护理需求》为题，展示了她历时半年开展调研的成果。这次会议汇聚了华东地区血友病领域的专家学者和患者组织代表，共同探讨血友病关爱事业的发展方向。",
+    "en": "The 'Inclusive Care, Empowering the Future' East China Hemophilia Multi-party Care and Organizational Empowerment Exchange Conference was grandly held in Hangzhou. Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team, presented her six-month research findings titled 'Facing the Diagnosis, Treatment, and Care Needs of Women with Hemophilia'. This conference brought together experts, scholars, and patient organization representatives from the hemophilia field in East China to jointly explore the development direction of hemophilia care."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250524/20250524_thumbnail.jpg",
+      "full": "assets/images/20250524/20250524.jpg",
+      "alt": "杭州交流会",
+      "title": {
+        "zh": "华东区血友病交流会现场",
+        "en": "East China Hemophilia Exchange Conference Scene"
+      },
+      "description": {
+        "zh": "「共融关爱 赋能未来」华东区血友病多方关爱暨组织赋能交流会现场",
+        "en": "Scene from 'Inclusive Care, Empowering the Future' East China Hemophilia Multi-party Care and Organizational Empowerment Exchange Conference"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1F7juzDEbw",
+      "title": {
+        "zh": "会议演讲视频",
+        "en": "Conference Presentation Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/xV8-O5dG4HM4R8zzCz_vUA",
+      "title": {
+        "zh": "微信公众号：会议详细报道1",
+        "en": "WeChat: Detailed Conference Report 1"
+      }
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/zrfljwjBYfDeSgyoh_zofA",
+      "title": {
+        "zh": "微信公众号：会议详细报道2，周瑞欽先生心得",
+        "en": "WeChat: Detailed Conference Report 2, review from Mr. Rui-Qin Chou"
+      }
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/tj6c2SeS4QT1M8KxfQYT6w",
+      "title": {
+        "zh": "微信公众号：会议详细报道3，左钰洁心得",
+        "en": "WeChat: Detailed Conference Report 3, review from Yujie (Ruby) Zuo"
+      }
+    }
+  ]
+}

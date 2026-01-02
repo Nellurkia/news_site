@@ -1,0 +1,43 @@
+{
+  "id": "20250414",
+  "startDate": "2025-04-14",
+  "endDate": null,
+  "title": {
+    "zh": "唐山&南昌：线上科普分享活动",
+    "en": "Tangshan & Nanchang: Online Educational Sharing Activity"
+  },
+  "subtitle": {
+    "zh": "看见她们被忽视的疼痛和血",
+    "en": "Seeing Their Ignored Pain and Blood"
+  },
+  "description": {
+    "zh": "血友姐妹会负责人左钰洁在线上做科普分享《看见她们被忽视的疼痛和血》。这次线上分享活动连接了唐山和南昌两地，通过网络平台向更广泛的受众普及血友病女性知识，让更多人了解和关注这一长期被忽视的群体，呼吁社会给予她们应有的理解和支持。",
+    "en": "Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team, conducted an online educational sharing session titled 'Seeing Their Ignored Pain and Blood'. This online sharing activity connected Tangshan and Nanchang, using online platforms to educate a broader audience about women with hemophilia, helping more people understand and pay attention to this long-ignored group, calling for society to give them the understanding and support they deserve."
+  },
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1v85hzPE7R",
+      "title": {
+        "zh": "线上科普分享视频",
+        "en": "Online Educational Sharing Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/mCVJunf6i3nVT1IurWoyhg",
+      "title": {
+        "zh": "微信公众号：唐山活动报道",
+        "en": "WeChat: Tangshan Activity Report"
+      }
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/HkqVUYUhriWu1J9_hUe08A",
+      "title": {
+        "zh": "微信公众号：南昌活动报道",
+        "en": "WeChat: Nanchang Activity Report"
+      }
+    }
+  ]
+}

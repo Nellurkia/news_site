@@ -1,0 +1,43 @@
+{
+  "id": "20250926",
+  "startDate": "2025-09-26",
+  "endDate": null,
+  "title": {
+    "zh": "线上：国际女性出血性疾病峰会",
+    "en": "Online: Global Summit on Women and Girls with Bleeding Disorders"
+  },
+  "subtitle": {
+    "zh": "WFH主办的WGBD峰会",
+    "en": "WGBD Summit Hosted by WFH"
+  },
+  "description": {
+    "zh": "国际女性出血性疾病峰会（Global Summit on Women and Girls with Bleeding Disorders，WGBD）由世界血友病联盟（World Federation of Hemophilia，WFH）主办。在中国血友病治疗协作组（HTCCNC）的杨仁池主任、陈玲玲老师支持下，南昌市血之友公益协会血友姐妹会负责人左钰洁得以在峰会第二天的「女性出血性疾病患者管理中文化的作用」环节中分享个人经验。",
+    "en": "The Global Summit on Women and Girls with Bleeding Disorders (WGBD) was hosted by the World Federation of Hemophilia (WFH). With the support of Director Yang Renchi and Teacher Chen Lingling from the Hemophilia Treatment Center Collaboration Network of China (HTCCNC), Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team from Nanchang Hemophilia Association, was able to share personal experiences in the 'The role of culture in women and girls with bleeding disorders management' session on the second day of the summit."
+  },
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1hysgz8EoW",
+      "title": {
+        "zh": "WGBD峰会分享视频",
+        "en": "WGBD Summit Sharing Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://wfh.org/wgbd2025/",
+      "title": {
+        "zh": "WFH官网：WGBD峰会",
+        "en": "WFH Official: WGBD Summit"
+      }
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/-EmOG6ZjLzcxK8kPSPnUig?token=1426548150&lang=zh_CN",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": "WeChat: Related Report"
+      }
+    }
+  ]
+}

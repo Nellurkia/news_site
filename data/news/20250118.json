@@ -1,0 +1,42 @@
+{
+  "id": "20250118",
+  "startDate": "2025-01-18",
+  "endDate": null,
+  "title": {
+    "zh": "南昌：江西省人民医院检测活动",
+    "en": "Nanchang: Jiangxi Provincial People's Hospital Testing Activity"
+  },
+  "subtitle": {
+    "zh": "携带者检测援助项目持续进行",
+    "en": "Carrier Testing Assistance Project Continues"
+  },
+  "description": {
+    "zh": "在江西省人民医院，南昌市血之友公益协会延续《携带者检测援助》项目，帮助10位女性得到了凝血检测。这次活动进一步扩大了项目的覆盖范围，与省级医院的合作为更多有需要的女性提供了便利的检测服务，体现了项目在推广过程中与各级医疗机构建立的良好合作关系。",
+    "en": "At Jiangxi Provincial People's Hospital, Nanchang Hemophilia Association continued the 'Carrier Testing Assistance' project, helping 10 women receive coagulation testing. This activity further expanded the project's coverage, and the cooperation with provincial hospitals provided convenient testing services for more women in need, reflecting the good cooperative relationships established with medical institutions at all levels during the project's promotion."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250118/20250118_thumbnail.png",
+      "full": "assets/images/20250118/20250118.png",
+      "alt": "省人民医院检测",
+      "title": {
+        "zh": "省人民医院检测活动",
+        "en": "Provincial People's Hospital Testing Activity"
+      },
+      "description": {
+        "zh": "江西省人民医院检测活动现场，10位女性接受专业的凝血检测服务",
+        "en": "Scene from Jiangxi Provincial People's Hospital testing activity, with 10 women receiving professional coagulation testing services"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/NhhsIpUjhrLBfHGPf2Dkvg",
+      "title": {
+        "zh": "微信公众号：检测活动报道",
+        "en": "WeChat: Testing Activity Report"
+      }
+    }
+  ]
+}

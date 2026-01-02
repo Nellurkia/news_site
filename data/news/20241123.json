@@ -1,0 +1,42 @@
+{
+  "id": "20241123",
+  "startDate": "2024-11-23",
+  "endDate": null,
+  "title": {
+    "zh": "赣州南康：送检到县 健康下乡",
+    "en": "Ganzhou Nankang: Bringing Testing to Counties, Health to Rural Areas"
+  },
+  "subtitle": {
+    "zh": "携带者检测费用援助项目活动",
+    "en": "Carrier Testing Cost Assistance Project Activity"
+  },
+  "description": {
+    "zh": "“送检到县 健康下乡”——携带者检测费用援助项目活动在赣州南康成功举办，由南昌市血之友公益协会主办，南昌慈善总会进行活动指导，南康人民医院联办。在医生护士、检测公司、工作人员的合作下，帮助10位女性得到了凝血检测。左钰洁线上进行“女性血友病携带者和患者”宣讲，将专业知识和关爱服务送到基层。",
+    "en": "The 'Bringing Testing to Counties, Health to Rural Areas' - Carrier Testing Cost Assistance Project Activity was successfully held in Ganzhou Nankang, hosted by Nanchang Hemophilia Association, guided by Nanchang Charity Federation, and co-organized by Nankang People's Hospital. With the cooperation of doctors, nurses, testing companies, and staff, 10 women received coagulation testing. Yujie (Ruby) Zuo conducted an online presentation on 'Female Hemophilia Carriers and Patients', bringing professional knowledge and care services to the grassroots level."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20241123/20241123_thumbnail.png",
+      "full": "assets/images/20241123/20241123.png",
+      "alt": "南康检测活动",
+      "title": {
+        "zh": "送检到县活动现场",
+        "en": "Bringing Testing to Counties Activity Scene"
+      },
+      "description": {
+        "zh": "赣州南康“送检到县 健康下乡”活动现场，医护人员为女性提供专业检测服务",
+        "en": "Scene from Ganzhou Nankang 'Bringing Testing to Counties, Health to Rural Areas' activity, with medical staff providing professional testing services for women"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/ZsPyiIu5tvxtaX1xY4VH-w",
+      "title": {
+        "zh": "微信公众号：活动详细报道",
+        "en": "WeChat: Detailed Activity Report"
+      }
+    }
+  ]
+}

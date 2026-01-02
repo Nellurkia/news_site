@@ -1,0 +1,117 @@
+{
+  "id": "20250805",
+  "startDate": "2025-08-05",
+  "endDate": null,
+  "title": {
+    "zh": "上海：共赋未来·创益大会",
+    "en": "Shanghai: Co-Empowering the Future · Innovation for Good Conference"
+  },
+  "subtitle": {
+    "zh": "公益创新交流分享",
+    "en": "Public Welfare Innovation Exchange and Sharing"
+  },
+  "description": {
+    "zh": "「共赋未来·创益大会」由上海益优青年服务中心主办。血友姐妹会负责人左钰洁作分享，向与会的公益组织和青年代表介绍血友病女性关爱项目的创新实践和发展经验。这次大会为不同领域的公益项目提供了交流平台，促进了公益创新理念的传播和实践经验的分享。",
+    "en": "The 'Co-Empowering the Future · Innovation for Good Conference' was hosted by Shanghai Yiyou Youth Service Center. Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team, gave a presentation, introducing the innovative practices and development experiences of the hemophilia women's care project to participating public welfare organizations and youth representatives. This conference provided an exchange platform for public welfare projects in different fields, promoting the dissemination of public welfare innovation concepts and the sharing of practical experiences."
+  },
+  "images": [
+        {
+      "thumbnail": "assets/images/20250805/20250805 (2)_thumbnail.jpg",
+      "full": "assets/images/20250805/20250805 (2).jpg",
+      "alt": "分享现场",
+      "title": {
+        "zh": "优秀项目表彰",
+        "en": "Outstanding Project Recognition"
+      },
+      "description": {
+        "zh": "创益大会优秀项目表彰",
+        "en": "Recognition for outstanding projects at the Innovation for Good Conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250805/20250805 (1)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (1).JPG",
+      "alt": "创益大会现场",
+      "title": {
+        "zh": "项目分享现场",
+        "en": "Project Sharing Scene"
+      },
+      "description": {
+        "zh": "左钰洁在创益大会上分享项目",
+        "en": "Yujie (Ruby) Zuo sharing project experience at the Innovation for Good Conference"
+      }
+    },
+
+    {
+      "thumbnail": "assets/images/20250805/20250805 (3)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (3).JPG",
+      "alt": "会议合影",
+      "title": {
+        "zh": "项目分享现场",
+        "en": "Project Sharing Scene"
+      },
+      "description": {
+        "zh": "左钰洁在创益大会上分享项目",
+        "en": "Yujie (Ruby) Zuo sharing project experience at the Innovation for Good Conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250805/20250805 (4)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (4).JPG",
+      "alt": "交流讨论",
+      "title": {
+        "zh": "项目分享现场",
+        "en": "Project Sharing Scene"
+      },
+      "description": {
+        "zh": "左钰洁在创益大会上分享项目",
+        "en": "Yujie (Ruby) Zuo sharing project experience at the Innovation for Good Conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250805/20250805 (5)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (5).JPG",
+      "alt": "会议展示",
+      "title": {
+        "zh": "项目分享现场",
+        "en": "Project Sharing Scene"
+      },
+      "description": {
+        "zh": "左钰洁在创益大会上分享项目",
+        "en": "Yujie (Ruby) Zuo sharing project experience at the Innovation for Good Conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250805/20250805 (6)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (6).JPG",
+      "alt": "项目现场",
+      "title": {
+        "zh": "项目分享现场",
+        "en": "Project Sharing Scene"
+      },
+      "description": {
+        "zh": "左钰洁在创益大会上分享项目",
+        "en": "Yujie (Ruby) Zuo sharing project experience at the Innovation for Good Conference"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1Zkehz9EQt",
+      "title": {
+        "zh": "创益大会分享视频",
+        "en": "Innovation for Good Conference Sharing Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/ayqlkTyF08tAx--9DiM3aA",
+      "title": {
+        "zh": "微信公众号：创益大会报道",
+        "en": "WeChat: Innovation for Good Conference Report"
+      }
+    }
+  ]
+}

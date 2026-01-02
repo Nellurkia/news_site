@@ -1,0 +1,55 @@
+{
+  "id": "20240413",
+  "startDate": "2024-04-13",
+  "endDate": null,
+  "title": {
+    "zh": "天津：世界血友病日主题宣传活动",
+    "en": "Tianjin: World Hemophilia Day Promotional Event"
+  },
+  "subtitle": {
+    "zh": "2024年世界血友病日主题宣传活动",
+    "en": "2024 World Hemophilia Day Promotional Activities"
+  },
+  "description": {
+    "zh": "2024年世界血友病日主题宣传活动在天津血研所成功举办，由天津市红十字基金会、中国医学科学院血液病医院、天津市友爱罕见病关爱服务中心联合发起。南昌市血之友公益协会的左国良、左钰洁前往学习交流。",
+    "en": "The 2024 World Hemophilia Day promotional event was successfully held at Tianjin Institute of Hematology, jointly initiated by Tianjin Red Cross Foundation, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences, and Tianjin Friendship Rare Disease Care Service Center. Zuo Guoliang and Yujie (Ruby) Zuo from Nanchang Hemophilia Association attended to learn and exchange experiences, gaining insights into the latest advances in hemophilia treatment and patient care service models."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240413/20240413 (1)_thumbnail.jpg",
+      "full": "assets/images/20240413/20240413 (1).jpg",
+      "alt": "天津血研所活动现场",
+      "title": {
+        "zh": "天津血研所活动现场",
+        "en": "Tianjin Institute Activity Scene"
+      },
+      "description": {
+        "zh": "天津市红十字基金会、中国医学科学院血液病医院联合举办的世界血友病日活动现场",
+        "en": "World Hemophilia Day event jointly organized by Tianjin Red Cross Foundation and Institute of Hematology"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240413/20240413 (2)_thumbnail.jpg",
+      "full": "assets/images/20240413/20240413 (2).jpg",
+      "alt": "学习交流现场",
+      "title": {
+        "zh": "学习交流现场",
+        "en": "Learning Exchange Scene"
+      },
+      "description": {
+        "zh": "南昌市血之友公益协会代表与天津专家进行深入的学习交流",
+        "en": "Representatives from Nanchang Hemophilia Association engaging in in-depth learning exchange with Tianjin experts"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/5vIluZCY97DtuQycWXht6w",
+      "title": {
+        "zh": "微信公众号：活动学习报告",
+        "en": "WeChat: Activity Learning Report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "20251011",
+  "startDate": "2025-10-11",
+  "endDate": null,
+  "title": {
+    "zh": "广州：中华医学会第三届罕见病学术年会",
+    "en": "Guangzhou: 3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases"
+  },
+  "subtitle": {
+    "zh": "论文交流与学术展示",
+    "en": "Paper Exchange and Academic Presentation"
+  },
+  "description": {
+    "zh": "以华中科技大学数学与统计学院的左钰洁、安心宇、安徽医科大学第二附属医院血液科的周莉、南昌市第一医院检验科的古艳、华中科技大学同济医学院公共卫生学院的龙品品、何洋帆、姚婷耀，以及华中科技大学生命科学与技术学院的张梓润、万嘉瑞为作者的论文《中国中部地区女性血友病携带者及女性血友病患者的低成本临床预测模型》被中华医学会第三届罕见病学术年会接收为论文交流。血友姐妹会负责人和古艳医师共同前往广州参加这次学术年会。",
+    "en": "The paper 'Low-cost Clinical Prediction Model for Female Hemophilia Carriers and Women with Hemophilia in Central China' authored by Yujie (Ruby) Zuo and An Xinyu from School of Mathematics and Statistics at HUST, Zhou Li from Department of Hematology at Second Affiliated Hospital of Anhui Medical University, Gu Yan from Clinical Laboratory of Nanchang First Hospital, Long Pinpin, He Yangfan, and Yao Tingyao from School of Public Health at Tongji Medical College of HUST, and Zhang Zirun and Wan Jiarui from School of Life Science and Technology at HUST, was accepted for paper exchange at the 3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases. The leader of Hemophilia Sisters team and Dr. Gu Yan traveled to Guangzhou to attend this academic annual conference."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20251011/20251011 (5)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (5).jpg",
+      "alt": "学术年会现场",
+      "title": {
+        "zh": "中华医学会第三届罕见病学术年会现场",
+        "en": "3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases Scene"
+      },
+      "description": {
+        "zh": "中华医学会第三届罕见病学术年会在广州举行，汇聚全国罕见病领域专家学者",
+        "en": "3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases held in Guangzhou, gathering experts and scholars in the rare disease field nationwide"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011 (2)_thumbnail.png",
+      "full": "assets/images/20251011/20251011 (2).png",
+      "alt": "论文展示",
+      "title": {
+        "zh": "论文交流展示",
+        "en": "Paper Exchange Presentation"
+      },
+      "description": {
+        "zh": "血友病女性临床预测模型论文在学术年会上进行交流展示",
+        "en": "Hemophilia women's clinical prediction model paper presented for exchange at the academic annual conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (1).jpg",
+      "alt": "学术交流",
+      "title": {
+        "zh": "学术交流讨论",
+        "en": "Academic Exchange Discussion"
+      },
+      "description": {
+        "zh": "与会专家学者就罕见病研究进行深入的学术交流和讨论",
+        "en": "Participating experts and scholars engaging in in-depth academic exchange and discussion on rare disease research"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011 (7)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (7).jpg",
+      "alt": "会议证书",
+      "title": {
+        "zh": "学术交流讨论",
+        "en": "Academic Exchange Discussion"
+      },
+      "description": {
+        "zh": "与会专家学者就罕见病研究进行深入的学术交流和讨论",
+        "en": "Participating experts and scholars engaging in in-depth academic exchange and discussion on rare disease research"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011 (6)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (6).jpg",
+      "alt": "学术成果",
+      "title": {
+        "zh": "学术成果展示",
+        "en": "Academic Achievement Display"
+      },
+      "description": {
+        "zh": "血友病女性关爱项目的学术研究成果在年会上得到展示和认可",
+        "en": "Academic research achievements of hemophilia women's care project displayed and recognized at the annual conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.png",
+      "full": "assets/images/20251011/20251011 (1).png",
+      "alt": "学术成果",
+      "title": {
+        "zh": "学术成果展示",
+        "en": "Academic Achievement Display"
+      },
+      "description": {
+        "zh": "血友病女性关爱项目的学术研究成果在年会上得到展示和认可",
+        "en": "Academic research achievements of hemophilia women's care project displayed and recognized at the annual conference"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1ot4uzuELN",
+      "title": {
+        "zh": "罕见病学术年会参会视频",
+        "en": "Rare Disease Academic Annual Conference Participation Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/Z-BKBwd17i9YLuwKiPZLLg?token=1426548150&lang=zh_CN",
+      "title": {
+        "zh": "微信公众号：相关报道",
+        "en": "WeChat: Related Report"
+      }
+    }
+  ]
+}

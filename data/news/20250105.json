@@ -1,0 +1,51 @@
+{
+  "id": "20250105",
+  "startDate": "2025-01-05",
+  "endDate": null,
+  "title": {
+    "zh": "南昌：欢乐迎新年 血友大健康",
+    "en": "Nanchang: Joyful New Year, Hemophilia Health"
+  },
+  "subtitle": {
+    "zh": "患者&携带者检测活动年会联欢",
+    "en": "Patient & Carrier Testing Activity Annual Celebration"
+  },
+  "description": {
+    "zh": "南昌市血之友公益协会举办年会联欢活动“欢乐迎新年 血友大健康”——患者&携带者检测活动。南昌市第一医院检验科的古艳医师帮助提供了13个家系的基因检测名额，协会延续《携带者检测援助》项目，帮助37位女性得到了凝血检测。左钰洁线上进行“女性血友病携带者和患者”科普宣讲，在新年伊始为血友病群体送上健康关爱。",
+    "en": "Nanchang Hemophilia Association held an annual celebration 'Joyful New Year, Hemophilia Health' - Patient & Carrier Testing Activity. Dr. Gu Yan from the Laboratory Department of Nanchang First Hospital helped provide genetic testing quotas for 13 families. The association continued the 'Carrier Testing Assistance' project, helping 37 women receive coagulation testing. Yujie (Ruby) Zuo conducted an online popular science presentation on 'Female Hemophilia Carriers and Patients', bringing health care to the hemophilia community at the beginning of the new year."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250105/20250105_thumbnail.png",
+      "full": "assets/images/20250105/20250105.png",
+      "alt": "年会联欢活动",
+      "title": {
+        "zh": "年会联欢活动现场",
+        "en": "Annual Celebration Activity Scene"
+      },
+      "description": {
+        "zh": "“欢乐迎新年 血友大健康”年会联欢活动现场，37位女性参与凝血检测",
+        "en": "Scene from 'Joyful New Year, Hemophilia Health' annual celebration, with 37 women participating in coagulation testing"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV19moMYwEho",
+      "title": {
+        "zh": "年会活动视频",
+        "en": "Annual Activity Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/Xk3Wb1GcpgxwBdSG3FD71g",
+      "title": {
+        "zh": "微信公众号：年会活动报道",
+        "en": "WeChat: Annual Activity Report"
+      }
+    }
+  ]
+}

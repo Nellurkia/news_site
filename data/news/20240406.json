@@ -1,0 +1,126 @@
+{
+  "id": "20240406",
+  "startDate": "2024-04-06",
+  "endDate": null,
+  "title": {
+    "zh": "南昌：第36个世界血友病日主题活动",
+    "en": "Nanchang: 36th World Hemophilia Day Memorial Event"
+  },
+  "subtitle": {
+    "zh": "2024年关注罕见病大健康多省市交流高峰会",
+    "en": "2024 Multi-Provincial Health Summit on Rare Diseases"
+  },
+  "description": {
+    "zh": "由南昌市血之友公益协会主办的“纪念第36个世界血友病日主题活动&2024年关注罕见病大健康多省市交流高峰会”在南昌成功举办。左钰洁首次提出了《关爱女性血友病，关爱我们的母亲、姐妹和女儿》的倡议宣讲，并发布许多论文、文献的翻译，包括ISTH-BAT（国际血栓与止血学会-出血评估工具）量表的翻译。",
+    "en": "The 36th World Hemophilia Day Memorial Event & 2024 Multi-Provincial Health Summit on Rare Diseases was successfully held in Nanchang, hosted by Nanchang Hemophilia Association. Yujie (Ruby) Zuo presented the initiative 'Caring for Women with Hemophilia, Caring for Our Mothers, Sisters and Daughters' for the first time, showcasing translations of numerous papers and literature, and releasing the Chinese translation of the ISTH-BAT (International Society on Thrombosis and Haemostasis - Bleeding Assessment Tool) scale."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240406/20240406 (1)_thumbnail.JPG",
+      "full": "assets/images/20240406/20240406 (1).JPG",
+      "alt": "活动现场照片",
+      "title": {
+        "zh": "活动现场照片",
+        "en": "Event Scene Photo"
+      },
+      "description": {
+        "zh": "纪念第36个世界血友病日主题活动现场，参会人员认真聆听专家讲座",
+        "en": "Scene from the 36th World Hemophilia Day memorial event, attendees listening to expert presentations"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240406/20240406 (1)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (1).png",
+      "alt": "翻译资料",
+      "title": {
+        "zh": "翻译资料",
+        "en": "Translation of literatures"
+      },
+      "description": {
+        "zh": "展示ISTH-BAT量表翻译和相关研究文献资料",
+        "en": "Display of ISTH-BAT scale translation and related research literature"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240406/20240406 (1)_thumbnail.webp",
+      "full": "assets/images/20240406/20240406 (1).webp",
+      "alt": "参会人员合影",
+      "title": {
+        "zh": "参会人员合影",
+        "en": "Group Photo of Attendees"
+      },
+      "description": {
+        "zh": "活动结束后，参会的血友病患者、家属和医护人员合影留念",
+        "en": "Group photo of hemophilia patients, families, and medical staff after the event"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240406/20240406 (2)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (2).png",
+      "alt": "翻译资料",
+      "title": {
+        "zh": "翻译资料",
+        "en": "Translation of literatures"
+      },
+      "description": {
+        "zh": "展示ISTH-BAT量表翻译和相关研究文献资料",
+        "en": "Display of ISTH-BAT scale translation and related research literature"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240406/20240406 (3)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (3).png",
+      "alt": "会议资料展示",
+      "title": {
+        "zh": "会议资料展示",
+        "en": "Conference Materials Display"
+      },
+      "description": {
+        "zh": "展示ISTH-BAT量表翻译和相关研究文献资料",
+        "en": "Display of ISTH-BAT scale translation and related research literature"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240406/20240406 (4)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (4).png",
+      "alt": "翻译资料",
+      "title": {
+        "zh": "翻译资料",
+        "en": "Translation of literatures"
+      },
+      "description": {
+        "zh": "展示ISTH-BAT量表翻译和相关研究文献资料",
+        "en": "Display of ISTH-BAT scale translation and related research literature"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240406/20240406(6)_thumbnail.png",
+      "full": "assets/images/20240406/20240406(6).png",
+      "alt": "翻译资料",
+      "description": {
+        "zh": "展示ISTH-BAT量表翻译和相关研究文献资料",
+        "en": "Display of ISTH-BAT scale translation and related research literature"
+      }
+
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV11PouYnEqV",
+      "title": {
+        "zh": "活动视频回顾",
+        "en": "Event Video Review"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/zXUiTmNoyXu4aWvc8RPQpg",
+      "title": {
+        "zh": "微信公众号：活动详细报道",
+        "en": "WeChat: Event Detailed Report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "20240919",
+  "startDate": "2024-09-19",
+  "endDate": null,
+  "title": {
+    "zh": "南昌：《携带者检测援助》项目正式启动",
+    "en": "Nanchang: 'Carrier Testing Assistance' Project Officially Launched"
+  },
+  "subtitle": {
+    "zh": "做凝血检测，补贴100元",
+    "en": "Coagulation Testing with 100 Yuan Subsidy"
+  },
+  "description": {
+    "zh": "南昌市血之友公益协会正式启动《携带者检测援助》项目，开始实施“做凝血检测，补贴100元”的援助方案。这是国内首个专门为血友病女性携带者提供检测费用援助的公益项目，标志着血友病女性关爱工作从理论倡导走向实际行动，为有需要的女性提供实质性的经济支持和健康保障。",
+    "en": "Nanchang Hemophilia Association officially launched the 'Carrier Testing Assistance' project, implementing the assistance policy of '100 yuan subsidy for coagulation testing'. This is the first charity project in China specifically providing testing cost assistance for female hemophilia carriers, marking the transition of hemophilia women's care work from theoretical advocacy to practical action, providing substantial economic support and health protection for women in need."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240919/20240919_thumbnail.png",
+      "full": "assets/images/20240919/20240919.png",
+      "alt": "项目启动公告",
+      "title": {
+        "zh": "项目正式启动",
+        "en": "Project Official Launch"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目正式启动，开始实施“做凝血检测，补贴100元”的项目",
+        "en": "'Carrier Testing Assistance' project officially launched, implementing '100 yuan subsidy for coagulation testing' policy"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/gOd0On7n0nIyoHXg80euHQ",
+      "title": {
+        "zh": "微信公众号：项目启动详情",
+        "en": "WeChat: Project Launch Details"
+      }
+    }
+  ]
+}

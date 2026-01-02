@@ -1,0 +1,34 @@
+{
+  "id": "20250605",
+  "startDate": "2025-06-05",
+  "endDate": null,
+  "title": {
+    "zh": "线上：中国遗传性出血性疾病人数估计发布",
+    "en": "Online: Estimation of Hereditary Bleeding Disorders Population in China Released"
+  },
+  "subtitle": {
+    "zh": "关于血友病女性携带者or患者的二三问",
+    "en": "Questions and Answers About Female Hemophilia Carriers or Patients"
+  },
+  "description": {
+    "zh": "血友姐妹会发布《中国遗传性出血性疾病人数估计》和《关于血友病女性携带者or患者的二三问》。这两份文件基于科学数据和研究成果，系统分析了中国遗传性出血性疾病的流行病学特征，并针对公众关心的血友病女性相关问题提供了专业解答，为政策制定和公众教育提供了重要参考。",
+    "en": "The Hemophilia Sisters team released 'Estimation of Hereditary Bleeding Disorders Population in China' and 'Questions and Answers About Female Hemophilia Carriers or Patients'. These two documents, based on scientific data and research findings, systematically analyze the epidemiological characteristics of hereditary bleeding disorders in China and provide professional answers to public concerns about women with hemophilia, offering important references for policy making and public education."
+  },
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/8zhGNMNZ3fDkFOgEGPbDcQ",
+      "title": {
+        "zh": "微信公众号：人数估计报告",
+        "en": "WeChat: Population Estimation Report"
+      }
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/LJPTCLTdvFJUUHCnLuk8MA",
+      "title": {
+        "zh": "微信公众号：血友病女性问答",
+        "en": "WeChat: Female Hemophilia Q&A"
+      }
+    }
+  ]
+}

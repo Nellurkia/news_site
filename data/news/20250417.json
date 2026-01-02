@@ -1,0 +1,62 @@
+{
+  "id": "20250417",
+  "startDate": "2025-04-17",
+  "endDate": null,
+  "title": {
+    "zh": "线上：世界血友病日&血友病女性互助网站上线",
+    "en": "Online: World Hemophilia Day & Hemophilia Women's Mutual Aid Website Launched"
+  },
+  "subtitle": {
+    "zh": "全民保障：女性和女孩也会流血",
+    "en": "Universal Coverage: Women and Girls Bleed Too"
+  },
+  "description": {
+    "zh": "2025年世界血友病日主题是：「全民保障：女性和女孩也会流血」。血友姐妹会开发的国内首个「血友病女性互助网站」上线。其中包含科普资源、知识库、血友病注射诊所地图、月经估算工具等功能，为血友病女性群体提供全方位的信息支持和互助服务。",
+    "en": "This day is World Hemophilia Day. The theme for 2025 World Hemophilia Day is: 'Access for all: Women and Girls Bleed Too'. The first 'China Bleeding Sisters' Website' in China developed by the Hemophilia Sisters team went online. It includes educational resources, knowledge base, hemophilia injection clinic map, menstrual estimation tools and other functions, providing comprehensive information support and mutual aid services for the female hemophilia community."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250417/20250417_thumbnail.jpg",
+      "full": "assets/images/20250417/20250417.jpg",
+      "alt": "网站首页",
+      "title": {
+        "zh": "血友病女性互助网站",
+        "en": "China Bleeding Sisters' Website"
+      },
+      "description": {
+        "zh": "国内首个血友病女性互助网站首页界面展示",
+        "en": "Homepage interface of China's first hemophilia women's mutual aid website"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250417/20250417_thumbnail.png",
+      "full": "assets/images/20250417/20250417.png",
+      "alt": "网站功能",
+      "title": {
+        "zh": "网站功能介绍",
+        "en": "Website Function Introduction"
+      },
+      "description": {
+        "zh": "网站包含的科普资源、知识库、诊所地图、月经估算工具等功能介绍",
+        "en": "Introduction of website functions including educational resources, knowledge base, clinic map, menstrual estimation tools, etc."
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://xueyou.xyz",
+      "title": {
+        "zh": "直链：血友病女性互助网站",
+        "en": "Direct Link: China Bleeding Sisters' Website"
+      }
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/bNNzEAd_FjgIVs5eggIXlg",
+      "title": {
+        "zh": "微信公众号：网站上线报道",
+        "en": "WeChat: Website Launch Report"
+      }
+    }
+  ]
+}

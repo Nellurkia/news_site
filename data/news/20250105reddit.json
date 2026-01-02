@@ -1,0 +1,27 @@
+{
+  "id": "20250105reddit",
+  "startDate": "2025-01-05",
+  "endDate": null,
+  "title": {
+    "zh": "线上：Reddit首次发帖讲述中国女性血友病状况",
+    "en": "Online: First Reddit Post About Chinese Women's Hemophilia Situation"
+  },
+  "subtitle": {
+    "zh": "发出国际呼声",
+    "en": "Making an International Voice"
+  },
+  "description": {
+    "zh": "在Reddit平台上首次发帖，讲述中国女性血友病状况，发出国际呼声。这是中国血友病女性群体首次在国际社交平台上发声，向全世界介绍中国女性血友病患者和携带者面临的挑战与困境，寻求国际社会的理解和支持，推动全球血友病女性关爱事业的发展。",
+    "en": "First post on Reddit platform, describing the situation of Chinese women with hemophilia and making an international voice. This is the first time that Chinese female hemophilia community has spoken out on international social platforms, introducing the challenges and difficulties faced by Chinese women with hemophilia and carriers to the world, seeking understanding and support from the international community, and promoting the development of global hemophilia women's care."
+  },
+  "videos": [],
+  "links": [
+    {
+      "url": "https://www.reddit.com/r/Hemophilia/comments/1hjd8cs/seeking_guidance_chinese_women_and_girls_are/",
+      "title": {
+        "zh": "Reddit：中国女性血友病状况帖子",
+        "en": "Reddit: Chinese Women's Hemophilia Situation Post"
+      }
+    }
+  ]
+}

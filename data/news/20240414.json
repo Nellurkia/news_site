@@ -1,0 +1,51 @@
+{
+  "id": "20240414",
+  "startDate": "2024-04-14",
+  "endDate": null,
+  "title": {
+    "zh": "唐山：第36个世界血友病日主题活动",
+    "en": "Tangshan: 36th World Hemophilia Day Event"
+  },
+  "subtitle": {
+    "zh": "纪念第36个世界血友病日主题活动",
+    "en": "36th World Hemophilia Day Memorial Activities"
+  },
+  "description": {
+    "zh": "纪念第36个世界血友病日主题活动由唐山血友中心主办。左钰洁进行《女性血友病携带者和患者》科普宣讲，向与会者详细介绍了女性血友病的相关知识，提高了大家对女性血友病群体的关注和认识。此次活动为推动血友病科普教育和患者关爱事业发展做出了积极贡献。",
+    "en": "The 36th World Hemophilia Day memorial event was hosted by Tangshan Hemophilia Center. Yujie (Ruby) Zuo delivered a scientific presentation on 'Female Hemophilia Carriers and Patients', providing detailed information about female hemophilia to attendees and raising awareness and understanding of the female hemophilia community. This event made positive contributions to promoting hemophilia education and patient care initiatives."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240414/20240414_thumbnail.jpg",
+      "full": "assets/images/20240414/20240414.jpg",
+      "alt": "唐山活动现场",
+      "title": {
+        "zh": "唐山活动现场",
+        "en": "Tangshan Event Scene"
+      },
+      "description": {
+        "zh": "唐山血友中心举办的第36个世界血友病日纪念活动现场，参会者认真聆听专业讲座",
+        "en": "Scene from the 36th World Hemophilia Day memorial event hosted by Tangshan Hemophilia Center, with attendees listening to professional presentations"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1yNouYSEmy",
+      "title": {
+        "zh": "科普宣讲视频",
+        "en": "Educational Presentation Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/fZQAIEiCLqwMnr8Udfp0Pw",
+      "title": {
+        "zh": "微信公众号：活动详情报道",
+        "en": "WeChat: Event Details Report"
+      }
+    }
+  ]
+}

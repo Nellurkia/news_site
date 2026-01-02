@@ -1,0 +1,85 @@
+{
+  "id": "20250322",
+  "startDate": "2025-03-22",
+  "endDate": null,
+  "title": {
+    "zh": "南昌：2025年江西血友群体健康检测活动",
+    "en": "Nanchang: 2025 Jiangxi Hemophilia Community Health Testing Activity"
+  },
+  "subtitle": {
+    "zh": "纪念第37个世界血友病日主题活动",
+    "en": "37th World Hemophilia Day Memorial Activities"
+  },
+  "description": {
+    "zh": "2025年江西血友群体健康检测活动&纪念第37个世界血友病日主题活动在南昌举行。血友姐妹会负责人左钰洁在南昌再次宣讲，并翻译了弗兰克·施纳贝尔先生的介绍视频《旅程开始》。南昌市血之友公益协会延续「携带者检测援助」项目，帮助22名女性做凝血检测，8个家庭做基因检测。",
+    "en": "The 2025 Jiangxi Hemophilia Community Health Testing Activity & 37th World Hemophilia Day Memorial Activities were held in Nanchang. Yujie (Ruby) Zuo, leader of the Hemophilia Sisters team, gave another presentation in Nanchang and translated Mr. Frank Schnabel's introduction video 'The Journey Begins'. Nanchang Hemophilia Association continued the 'Carrier Testing Assistance' project, helping 22 women with coagulation testing and 8 families with genetic testing."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250322/20250322 (1)_thumbnail.jpg",
+      "full": "assets/images/20250322/20250322 (1).jpg",
+      "alt": "《旅程开始》视频截图",
+      "title": {
+        "zh": "《旅程开始》视频截图",
+        "en": "'The Journey Begins' Video Screenshot"
+      },
+      "description": {
+        "zh": "视频《旅程开始》的截图，展示弗兰克·施纳贝尔先生的照片",
+        "en": "Photo of Mr. Frank Schnabel in the video 'The Journey Begins', showing Mr. Frank's photo"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250322/20250322 (1)_thumbnail.png",
+      "full": "assets/images/20250322/20250322 (1).png",
+      "alt": "活动合影",
+      "title": {
+        "zh": "活动合影",
+        "en": "Group Photo"
+      },
+      "description": {
+        "zh": "2025年江西血友群体健康检测活动暨第37个世界血友病日纪念活动参与者合影",
+        "en": "Group photo of participants from the 2025 Jiangxi Hemophilia Community Health Testing Activity and 37th World Hemophilia Day memorial event"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250322/20250322 (2)_thumbnail.jpg",
+      "full": "assets/images/20250322/20250322 (2).jpg",
+      "alt": "「全民保障：女性和女孩也会流血 Access for all: Women and Girls Bleed Too」签名墙照片",
+      "title": {
+        "zh": "世界血友病日主题签名墙",
+        "en": "World Hemophilia Day Theme Signature Wall"
+      },
+      "description": {
+        "zh": "第37个世界血友病日主题「全民保障：女性和女孩也会流血 Access for all: Women and Girls Bleed Too」签名墙照片",
+        "en": "Signature wall photo with the 37th World Hemophilia Day theme 'Access for all: Women and Girls Bleed Too'"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1qs5hzqEgh",
+      "title": {
+        "zh": "活动视频回顾",
+        "en": "Activity Video Review"
+      }
+    },
+    {
+      "platform": "bilibili",
+      "id": "BV1WrAgeiE5i",
+      "title": {
+        "zh": "《旅程开始》翻译视频",
+        "en": "'The Journey Begins' Translation Video"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/xorRaHoyWflSmmkrbara8Q",
+      "title": {
+        "zh": "微信公众号：活动详细报道",
+        "en": "WeChat: Detailed Activity Report"
+      }
+    }
+  ]
+}

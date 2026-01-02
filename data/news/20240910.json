@@ -1,0 +1,42 @@
+{
+  "id": "20240910",
+  "startDate": "2024-09-10",
+  "endDate": null,
+  "title": {
+    "zh": "线上：《携带者检测援助》项目募资成功",
+    "en": "Online: 'Carrier Testing Assistance' Project Fundraising Success"
+  },
+  "subtitle": {
+    "zh": "5天内募集35,000余元善款",
+    "en": "Raised Over 35,000 Yuan in 5 Days"
+  },
+  "description": {
+    "zh": "《携带者检测援助》项目在腾讯公益平台上线仅5天时间，就成功募集到35,000多元善款，超额完成了预期目标。这一成果充分体现了社会各界对血友病女性群体的关注和支持，为后续开展更多血友病女性关爱活动奠定了坚实的资金基础。",
+    "en": "The 'Carrier Testing Assistance' project successfully raised over 35,000 yuan in just 5 days after launching on the Tencent Charity platform, exceeding the expected target. This achievement fully demonstrates the attention and support from all sectors of society for women with hemophilia, laying a solid financial foundation for conducting more hemophilia women's care activities in the future."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240910/20240910_thumbnail.png",
+      "full": "assets/images/20240910/20240910.png",
+      "alt": "募资成功截图",
+      "title": {
+        "zh": "项目募资成功",
+        "en": "Project Fundraising Success"
+      },
+      "description": {
+        "zh": "《携带者检测援助》项目在腾讯公益平台成功募资35,000余元的截图记录",
+        "en": "Screenshot record of the 'Carrier Testing Assistance' project successfully raising over 35,000 yuan on Tencent Charity platform"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/gOd0On7n0nIyoHXg80euHQ",
+      "title": {
+        "zh": "微信公众号：项目启动公告",
+        "en": "WeChat: Project Launch Announcement"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20251026",
+  "startDate": "2025-10-26",
+  "endDate": null,
+  "title": {
+    "zh": "宁波：科学治疗 规范为先",
+    "en": "Ningbo: Scientific Treatment, Standards First"
+  },
+  "subtitle": {
+    "zh": "血友病规范治疗巡讲活动",
+    "en": "Hemophilia Standardized Treatment Lecture Tour"
+  },
+  "description": {
+    "zh": "血友病规范治疗巡讲活动在宁波举行。左钰洁以“女性血友病携带者为何也会患血友病？解密基因表达”为题，展开公益科普宣讲，向参与者讲解女性血友病携带者和患者的相关知识。",
+    "en": "Hemophilia standardized treatment lecture tour was held in Ningbo. Yujie (Ruby) Zuo gave a public welfare science lecture titled 'Why Can Female Hemophilia Carriers Also Develop Hemophilia? Decoding Gene Expression', explaining knowledge about female hemophilia carriers and patients to participants."
+  },
+  "images": [],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1LgvXBFEfG",
+      "title": {
+        "zh": "血友病规范治疗巡讲活动视频",
+        "en": "Hemophilia Standardized Treatment Lecture Tour Video"
+      }
+    }
+  ],
+  "links": []
+}

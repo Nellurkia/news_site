@@ -1,0 +1,42 @@
+{
+  "id": "20250501",
+  "startDate": "2025-05-01",
+  "endDate": null,
+  "title": {
+    "zh": "线上：全国首个血友病女性知识库上线",
+    "en": "Online: China's First Hemophilia Women's Knowledge Base Launched"
+  },
+  "subtitle": {
+    "zh": "基于腾讯IMA知识库，支持AI问答",
+    "en": "Based on Tencent IMA Knowledge Base, Supporting AI Q&A"
+  },
+  "description": {
+    "zh": "血友姐妹会建设的全国首个「血友病女性知识库」上线，基于腾讯IMA知识库，包含70多本权威文献、指南、共识、书籍、标准、论文，支持DeepSeek AI问答。这个知识库为血友病女性群体提供了权威、全面的医学信息资源，通过AI技术让专业知识更加易于获取和理解。",
+    "en": "The first 'Hemophilia Women's Knowledge Base' in China built by the Hemophilia Sisters team went online, based on Tencent IMA Knowledge Base, containing over 70 authoritative literature, guidelines, consensus, books, standards, and papers, supporting DeepSeek AI Q&A. This knowledge base provides authoritative and comprehensive medical information resources for the female hemophilia community, making professional knowledge more accessible and understandable through AI technology."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250501/20250501_thumbnail.png",
+      "full": "assets/images/20250501/20250501.png",
+      "alt": "知识库界面",
+      "title": {
+        "zh": "血友病女性知识库",
+        "en": "Hemophilia Women's Knowledge Base"
+      },
+      "description": {
+        "zh": "全国首个血友病女性知识库界面，包含70多本权威文献资料",
+        "en": "Interface of China's first hemophilia women's knowledge base, containing over 70 authoritative literature materials"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/bGtgufmGBjmLs2aSFLi0Aw",
+      "title": {
+        "zh": "微信公众号：知识库上线报道",
+        "en": "WeChat: Knowledge Base Launch Report"
+      }
+    }
+  ]
+}

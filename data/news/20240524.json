@@ -1,0 +1,65 @@
+
+{
+  "id": "20240524",
+  "startDate": "2024-05-24",
+  "endDate": null,
+  "title": {
+    "zh": "长沙：第二届血友病患者服务工作交流合作论坛",
+    "en": "Changsha: Second Hemophilia Patient Service Work Exchange and Cooperation Forum"
+  },
+  "subtitle": {
+    "zh": "长沙血友病医学交流大会",
+    "en": "Changsha Hemophilia Medical Exchange Conference"
+  },
+  "description": {
+    "zh": "第二届血友病患者服务工作交流合作论坛在长沙成功举办，由中南大学湘雅医院主办，益阳市友联罕见病关爱服务中心协办，东台市博爱罕见病助残关爱中心承办。左钰洁进行《女性血友病携带者和患者》科普宣讲，进一步推广女性血友病关爱理念。",
+    "en": "The Second Hemophilia Patient Service Work Exchange and Cooperation Forum was successfully held in Changsha, hosted by Xiangya Hospital of Central South University, co-organized by Yiyang Youlian Rare Disease Care Service Center, and undertaken by Dongtai Boai Rare Disease Disability Care Center. Yujie (Ruby) Zuo gave a popular science presentation on 'Female Hemophilia Carriers and Patients', further promoting the concept of caring for women with hemophilia."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20240524/20250524 (1)_thumbnail.png",
+      "full": "assets/images/20240524/20250524 (1).png",
+      "alt": "论坛现场",
+      "title": {
+        "zh": "论坛现场",
+        "en": "Forum Scene"
+      },
+      "description": {
+        "zh": "第二届血友病患者服务工作交流合作论坛现场，与会专家和患者代表认真参与讨论",
+        "en": "Scene from the Second Hemophilia Patient Service Work Exchange and Cooperation Forum, with experts and patient representatives actively participating in discussions"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20240524/20250524 (2)_thumbnail.png",
+      "full": "assets/images/20240524/20250524 (2).png",
+      "alt": "宣讲现场",
+      "title": {
+        "zh": "女性血友病科普宣讲",
+        "en": "Female Hemophilia Education Presentation"
+      },
+      "description": {
+        "zh": "左钰洁在论坛上进行《女性血友病携带者和患者》专题宣讲",
+        "en": "Yujie (Ruby) Zuo presenting on 'Female Hemophilia Carriers and Patients' at the forum"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "platform": "bilibili",
+      "id": "BV1yTouYEEKs",
+      "title": {
+        "zh": "论坛视频回顾",
+        "en": "Forum Video Review"
+      }
+    }
+  ],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/m2SdamuuFOg5R8YP56FZow",
+      "title": {
+        "zh": "微信公众号：论坛详细报道",
+        "en": "WeChat: Detailed Forum Report"
+      }
+    }
+  ]
+}

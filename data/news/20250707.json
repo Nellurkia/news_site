@@ -1,0 +1,68 @@
+{
+  "id": "20250707",
+  "startDate": "2025-07-07",
+  "endDate": null,
+  "title": {
+    "zh": "武汉：华中科技大学同济医学院暑期学校",
+    "en": "Wuhan: HUST Tongji Medical College Summer School"
+  },
+  "subtitle": {
+    "zh": "2025 Tongji Summer School",
+    "en": "2025 Tongji Summer School"
+  },
+  "description": {
+    "zh": "血友姐妹会成员参与华中科技大学同济医学院的暑期学校（2025 Tongji Summer School）课程。左钰洁和何洋帆参与「遗传和分子流行病学（一）、（二）」课程，姚婷耀参与科学写作（Scientific Writing）课程。这次学习进一步提升了团队成员在遗传学、流行病学和科学写作方面的专业能力。",
+    "en": "Members of the Hemophilia Sisters team participated in the 2025 Tongji Summer School courses at Tongji Medical College, Huazhong University of Science and Technology. Yujie (Ruby) Zuo and He Yangfan participated in 'Genetic and Molecular Epidemiology (1) & (2)' courses, while Yao Tingyao participated in the Scientific Writing course. This learning experience further enhanced team members' professional capabilities in genetics, epidemiology, and scientific writing."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250707/20250707 (1)_thumbnail.jpeg",
+      "full": "assets/images/20250707/20250707 (1).jpeg",
+      "alt": "暑期学校课程",
+      "title": {
+        "zh": "同济医学院暑期学校",
+        "en": "Tongji Medical College Summer School"
+      },
+      "description": {
+        "zh": "2025年华中科技大学同济医学院暑期学校课程证书",
+        "en": "Certificate from 2025 HUST Tongji Medical College Summer School courses"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250707/20250707 (1)_thumbnail.jpg",
+      "full": "assets/images/20250707/20250707 (1).jpg",
+      "alt": "学习现场",
+      "title": {
+        "zh": "遗传和分子流行病学课程",
+        "en": "Genetic and Molecular Epidemiology Course"
+      },
+      "description": {
+        "zh": "血友姐妹会成员参与遗传和分子流行病学课程学习",
+        "en": "Hemophilia Sisters team members participating in Genetic and Molecular Epidemiology course"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250707/20250707 (2)_thumbnail.jpg",
+      "full": "assets/images/20250707/20250707 (2).jpg",
+      "alt": "科学写作课程",
+      "title": {
+        "zh": "科学写作课程",
+        "en": "Scientific Writing Course"
+      },
+      "description": {
+        "zh": "暑期学校科学写作课程学习现场",
+        "en": "Scene from Scientific Writing course at summer school"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://mp.weixin.qq.com/s/BhpXLQKqAxGfaRmHxh-UiA",
+      "title": {
+        "zh": "微信公众号：暑期学校学习报道",
+        "en": "WeChat: Summer School Learning Report"
+      }
+    }
+  ]
+}

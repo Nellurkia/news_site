@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>血友姐妹会 - 新闻中心</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- 冻结导航栏 -->
+    <nav class="top-nav">
+        <div class="logo-bar">
+            <div class="logo-container">
+                <img src="logo.png" alt="血友姐妹会" class="logo-img">
+                <a href="../home/" style="text-decoration: none;">
+                    <span class="logo-text" data-zh="血友姐妹会" data-en="Hemophilia Sisters">血友姐妹会</span>
+                </a>
+            </div>
+            <div class="nav-controls">
+                <div class="language-switch">
+                    <button id="lang-zh" class="lang-btn active">中文</button>
+                    <button id="lang-en" class="lang-btn">English</button>
+                </div>
+            </div>
+        </div>
+        <div class="nav-links">
+            <a href="../home/" data-zh="主页" data-en="Home">主页</a>
+            <div class="dropdown">
+                <a href="#" data-zh="科普" data-en="Education">科普</a>
+                <div class="dropdown-content">
+                    <a href="../education/" data-zh="科普图文" data-en="Educational Articles">科普图文</a>
+                    <a href="../video/" data-zh="视频播放" data-en="Videos">视频播放</a>
+                    <a href="../file/" data-zh="资料下载" data-en="Downloads">资料下载</a>
+                </div>
+            </div>
+            <a href="../map/" data-zh="检测地图" data-en="Testing Map">检测地图</a>
+            <div class="nav-link-container">
+                <a href="https://lxi.me/3Xr9Bq" data-zh="问卷跳转" data-en="Survey">问卷跳转</a>
+                <div class="qr-popup">
+                    <img src="qrcode.png" alt="问卷二维码">
+                    <span data-zh="可扫码" data-en="Scan QR">可扫码</span>
+                </div>
+            </div>
+            <a href="../period/" data-zh="月经估算" data-en="Period Calculator">月经估算</a>
+            <a href="index.html" data-zh="新闻" data-en="News">新闻</a>
+            <a href="../contact/" data-zh="联系方式" data-en="Contact">联系方式</a>
+        </div>
+    </nav>
+
+    <!-- 悬浮排序按钮 -->
+    <div class="floating-sort">
+        <button id="sort-toggle" class="sort-btn" title="切换排序">
+            <span class="sort-icon">⇅</span>
+            <span class="sort-text" data-zh="最新" data-en="Newest">最新</span>
+        </button>
+    </div>
+
+    <main class="main">
+        <div class="container">
+            <div id="news-container" class="news-grid">
+                <!-- 新闻内容将在这里动态加载 -->
+            </div>
+
+            <div class="pagination">
+                <button id="prev-page" class="page-btn" disabled data-zh="上一页" data-en="Previous">上一页</button>
+                <span id="page-info" class="page-info">第 1 页，共 1 页</span>
+                <button id="next-page" class="page-btn" disabled data-zh="下一页" data-en="Next">下一页</button>
+            </div>
+
+            <div id="loading" class="loading" style="display: none;">
+                <span data-zh="加载中..." data-en="Loading...">加载中...</span>
+            </div>
+        </div>
+    </main>
+
+    <!-- 图片预览模态框 -->
+    <div id="image-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-image" src="" alt="">
+            <div class="image-info">
+                <h3 id="image-title" class="image-title"></h3>
+                <p id="image-description" class="image-description"></p>
+            </div>
+            <div class="modal-controls">
+                <button id="download-btn" data-zh="下载" data-en="Download">下载</button>
+                <div class="image-nav">
+                    <button id="prev-image" data-zh="上一张" data-en="Previous">上一张</button>
+                    <span id="image-counter">1 / 1</span>
+                    <button id="next-image" data-zh="下一张" data-en="Next">下一张</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/i18n.js"></script>
+    <script src="js/news-loader.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
