@@ -31,14 +31,14 @@
     {
       "thumbnail": "assets/images/20250405/20250405 (2)_thumbnail.png",
       "full": "assets/images/20250405/20250405 (2).png",
-      "alt": "帖子数据统计",
+      "alt": "帖子评论截图",
       "title": {
-        "zh": "帖子传播数据",
-        "en": "Post Engagement Data"
+        "zh": "帖子评论互动",
+        "en": "Post Comments"
       },
       "description": {
-        "zh": "帖子获得2000+点赞，累计10万浏览的数据展示",
-        "en": "Data showing over 2,000 likes and 100,000 views"
+        "zh": "网友在帖子下的评论互动，展示了社会对女性血友病话题的关注和共鸣",
+        "en": "Comments from netizens showing social attention and resonance with the topic of female hemophilia"
       }
     }
   ],
