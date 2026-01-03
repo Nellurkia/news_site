@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20241123",
   "startDate": "2024-11-23",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20241123/20241123_thumbnail.png",
-      "full": "assets/images/20241123/20241123.png",
+      "full": "assets/images/20241123/20241123_thumbnail.png",
       "alt": "南康检测活动",
       "title": {
         "zh": "送检到县活动现场",

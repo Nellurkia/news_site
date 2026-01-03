@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250416",
   "startDate": "2025-04-16",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250416/20250416_thumbnail.png",
-      "full": "assets/images/20250416/20250416.png",
+      "full": "assets/images/20250416/20250416_thumbnail.png",
       "alt": "访谈计划海报",
       "title": {
         "zh": "「她们的流血史」访谈计划",

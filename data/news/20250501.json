@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250501",
   "startDate": "2025-05-01",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250501/20250501_thumbnail.png",
-      "full": "assets/images/20250501/20250501.png",
+      "full": "assets/images/20250501/20250501_thumbnail.png",
       "alt": "知识库界面",
       "title": {
         "zh": "血友病女性知识库",

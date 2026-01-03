@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20251204",
   "startDate": "2025-12-04",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251204/20251204 (1)_thumbnail.jpg",
-      "full": "assets/images/20251204/20251204 (1).jpg",
+      "full": "assets/images/20251204/20251204 (1)_thumbnail.jpg",
       "alt": "摆摊参展",
       "title": {
         "zh": "助残企业家论坛参展",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251204/20251204 (2)_thumbnail.jpg",
-      "full": "assets/images/20251204/20251204 (2).jpg",
+      "full": "assets/images/20251204/20251204 (2)_thumbnail.jpg",
       "alt": "签名墙",
       "title": {
         "zh": "论坛签名墙",

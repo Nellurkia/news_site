@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250710",
   "startDate": "2025-07-10",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250710/Badges-1_thumbnail.png",
-      "full": "assets/images/20250710/Badges-1.png",
+      "full": "assets/images/20250710/Badges-1_thumbnail.png",
       "alt": "WFH峰会徽章",
       "title": {
         "zh": "WFH 2025 GPAS参会徽章",

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20240414",
   "startDate": "2024-04-14",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240414/20240414_thumbnail.jpg",
-      "full": "assets/images/20240414/20240414.jpg",
+      "full": "assets/images/20240414/20240414_thumbnail.jpg",
       "alt": "唐山活动现场",
       "title": {
         "zh": "唐山活动现场",

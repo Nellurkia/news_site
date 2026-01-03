@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20251122",
   "startDate": "2025-11-22",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251122/20251122 (1)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (1).jpg",
+      "full": "assets/images/20251122/20251122 (1)_thumbnail.jpg",
       "alt": "合照",
       "title": {
         "zh": "华中区血友病合作交流会合照",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (2)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (2).jpg",
+      "full": "assets/images/20251122/20251122 (2)_thumbnail.jpg",
       "alt": "宣讲照片",
       "title": {
         "zh": "公益科普宣讲",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (3)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (3).jpg",
+      "full": "assets/images/20251122/20251122 (3)_thumbnail.jpg",
       "alt": "宣讲互动照片",
       "title": {
         "zh": "宣讲互动交流",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (4)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (4).jpg",
+      "full": "assets/images/20251122/20251122 (4)_thumbnail.jpg",
       "alt": "宣讲",
       "title": {
         "zh": "学术宣讲现场",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (5)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (5).jpg",
+      "full": "assets/images/20251122/20251122 (5)_thumbnail.jpg",
       "alt": "合照",
       "title": {
         "zh": "会议合影",

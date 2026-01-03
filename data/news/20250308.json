@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250308",
   "startDate": "2025-03-08",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250308/20250308 (1)_thumbnail.jpg",
-      "full": "assets/images/20250308/20250308 (1).jpg",
+      "full": "assets/images/20250308/20250308 (1)_thumbnail.jpg",
       "alt": "奖状",
       "title": {
         "zh": "获奖奖状",
@@ -31,7 +31,7 @@
 
     {
       "thumbnail": "assets/images/20250308/20250308 (2)_thumbnail.jpg",
-      "full": "assets/images/20250308/20250308 (2).jpg",
+      "full": "assets/images/20250308/20250308 (2)_thumbnail.jpg",
       "alt": "视频投票结果",
       "title": {
         "zh": "视频投票成果",
@@ -44,7 +44,7 @@
     },
     {
       "thumbnail": "assets/images/20250308/20250308 (1)_thumbnail.png",
-      "full": "assets/images/20250308/20250308 (1).png",
+      "full": "assets/images/20250308/20250308 (1)_thumbnail.png",
       "alt": "科普视频截图",
       "title": {
         "zh": "国际妇女节科普视频",
@@ -57,7 +57,7 @@
     },    
     {
       "thumbnail": "assets/images/20250308/20250308 (2)_thumbnail.png",
-      "full": "assets/images/20250308/20250308 (2).png",
+      "full": "assets/images/20250308/20250308 (2)_thumbnail.png",
       "alt": "科普视频截图",
       "title": {
         "zh": "国际妇女节科普视频",

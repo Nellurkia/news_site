@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250322",
   "startDate": "2025-03-22",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250322/20250322 (1)_thumbnail.jpg",
-      "full": "assets/images/20250322/20250322 (1).jpg",
+      "full": "assets/images/20250322/20250322 (1)_thumbnail.jpg",
       "alt": "《旅程开始》视频截图",
       "title": {
         "zh": "《旅程开始》视频截图",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250322/20250322 (1)_thumbnail.png",
-      "full": "assets/images/20250322/20250322 (1).png",
+      "full": "assets/images/20250322/20250322 (1)_thumbnail.png",
       "alt": "活动合影",
       "title": {
         "zh": "活动合影",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20250322/20250322 (2)_thumbnail.jpg",
-      "full": "assets/images/20250322/20250322 (2).jpg",
+      "full": "assets/images/20250322/20250322 (2)_thumbnail.jpg",
       "alt": "「全民保障：女性和女孩也会流血 Access for all: Women and Girls Bleed Too」签名墙照片",
       "title": {
         "zh": "世界血友病日主题签名墙",

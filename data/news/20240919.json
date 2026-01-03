@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20240919",
   "startDate": "2024-09-19",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240919/20240919_thumbnail.png",
-      "full": "assets/images/20240919/20240919.png",
+      "full": "assets/images/20240919/20240919_thumbnail.png",
       "alt": "项目启动公告",
       "title": {
         "zh": "项目正式启动",

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250105",
   "startDate": "2025-01-05",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250105/20250105_thumbnail.png",
-      "full": "assets/images/20250105/20250105.png",
+      "full": "assets/images/20250105/20250105_thumbnail.png",
       "alt": "年会联欢活动",
       "title": {
         "zh": "年会联欢活动现场",

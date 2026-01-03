@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20251214",
   "startDate": "2025-12-14",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251214/20251214_thumbnail.png",
-      "full": "assets/images/20251214/20251214.png",
+      "full": "assets/images/20251214/20251214_thumbnail.png",
       "alt": "学术会议照片",
       "title": {
         "zh": "队列共享平台年会现场",

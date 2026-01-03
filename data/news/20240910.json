@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20240910",
   "startDate": "2024-09-10",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240910/20240910_thumbnail.png",
-      "full": "assets/images/20240910/20240910.png",
+      "full": "assets/images/20240910/20240910_thumbnail.png",
       "alt": "募资成功截图",
       "title": {
         "zh": "项目募资成功",

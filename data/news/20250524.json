@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250524",
   "startDate": "2025-05-24",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250524/20250524_thumbnail.jpg",
-      "full": "assets/images/20250524/20250524.jpg",
+      "full": "assets/images/20250524/20250524_thumbnail.jpg",
       "alt": "杭州交流会",
       "title": {
         "zh": "华东区血友病交流会现场",

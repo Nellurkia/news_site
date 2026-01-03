@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20251011",
   "startDate": "2025-10-11",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251011/20251011 (5)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (5).jpg",
+      "full": "assets/images/20251011/20251011 (5)_thumbnail.jpg",
       "alt": "学术年会现场",
       "title": {
         "zh": "中华医学会第三届罕见病学术年会现场",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (2)_thumbnail.png",
-      "full": "assets/images/20251011/20251011 (2).png",
+      "full": "assets/images/20251011/20251011 (2)_thumbnail.png",
       "alt": "论文展示",
       "title": {
         "zh": "论文交流展示",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (1).jpg",
+      "full": "assets/images/20251011/20251011 (1)_thumbnail.jpg",
       "alt": "学术交流",
       "title": {
         "zh": "学术交流讨论",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (7)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (7).jpg",
+      "full": "assets/images/20251011/20251011 (7)_thumbnail.jpg",
       "alt": "会议证书",
       "title": {
         "zh": "学术交流讨论",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (6)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (6).jpg",
+      "full": "assets/images/20251011/20251011 (6)_thumbnail.jpg",
       "alt": "学术成果",
       "title": {
         "zh": "学术成果展示",
@@ -82,7 +82,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.png",
-      "full": "assets/images/20251011/20251011 (1).png",
+      "full": "assets/images/20251011/20251011 (1)_thumbnail.png",
       "alt": "学术成果",
       "title": {
         "zh": "学术成果展示",

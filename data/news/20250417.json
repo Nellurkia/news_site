@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250417",
   "startDate": "2025-04-17",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250417/20250417_thumbnail.jpg",
-      "full": "assets/images/20250417/20250417.jpg",
+      "full": "assets/images/20250417/20250417_thumbnail.jpg",
       "alt": "网站首页",
       "title": {
         "zh": "血友病女性互助网站",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250417/20250417_thumbnail.png",
-      "full": "assets/images/20250417/20250417.png",
+      "full": "assets/images/20250417/20250417_thumbnail.png",
       "alt": "网站功能",
       "title": {
         "zh": "网站功能介绍",

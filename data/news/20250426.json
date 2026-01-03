@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250426",
   "startDate": "2025-04-26",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250426/20250426_thumbnail.png",
-      "full": "assets/images/20250426/20250426.png",
+      "full": "assets/images/20250426/20250426_thumbnail.png",
       "alt": "修水检测活动",
       "title": {
         "zh": "修水县检测活动现场",

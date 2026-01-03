@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250805",
   "startDate": "2025-08-05",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
         {
       "thumbnail": "assets/images/20250805/20250805 (2)_thumbnail.jpg",
-      "full": "assets/images/20250805/20250805 (2).jpg",
+      "full": "assets/images/20250805/20250805 (2)_thumbnail.jpg",
       "alt": "分享现场",
       "title": {
         "zh": "优秀项目表彰",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (1)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (1).JPG",
+      "full": "assets/images/20250805/20250805 (1)_thumbnail.JPG",
       "alt": "创益大会现场",
       "title": {
         "zh": "项目分享现场",
@@ -44,7 +44,7 @@
 
     {
       "thumbnail": "assets/images/20250805/20250805 (3)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (3).JPG",
+      "full": "assets/images/20250805/20250805 (3)_thumbnail.JPG",
       "alt": "会议合影",
       "title": {
         "zh": "项目分享现场",
@@ -57,7 +57,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (4)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (4).JPG",
+      "full": "assets/images/20250805/20250805 (4)_thumbnail.JPG",
       "alt": "交流讨论",
       "title": {
         "zh": "项目分享现场",
@@ -70,7 +70,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (5)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (5).JPG",
+      "full": "assets/images/20250805/20250805 (5)_thumbnail.JPG",
       "alt": "会议展示",
       "title": {
         "zh": "项目分享现场",
@@ -83,7 +83,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (6)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (6).JPG",
+      "full": "assets/images/20250805/20250805 (6)_thumbnail.JPG",
       "alt": "项目现场",
       "title": {
         "zh": "项目分享现场",

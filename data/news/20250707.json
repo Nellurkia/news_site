@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250707",
   "startDate": "2025-07-07",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250707/20250707 (1)_thumbnail.jpeg",
-      "full": "assets/images/20250707/20250707 (1).jpeg",
+      "full": "assets/images/20250707/20250707 (1)_thumbnail.jpeg",
       "alt": "暑期学校课程",
       "title": {
         "zh": "同济医学院暑期学校",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250707/20250707 (1)_thumbnail.jpg",
-      "full": "assets/images/20250707/20250707 (1).jpg",
+      "full": "assets/images/20250707/20250707 (1)_thumbnail.jpg",
       "alt": "学习现场",
       "title": {
         "zh": "遗传和分子流行病学课程",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20250707/20250707 (2)_thumbnail.jpg",
-      "full": "assets/images/20250707/20250707 (2).jpg",
+      "full": "assets/images/20250707/20250707 (2)_thumbnail.jpg",
       "alt": "科学写作课程",
       "title": {
         "zh": "科学写作课程",

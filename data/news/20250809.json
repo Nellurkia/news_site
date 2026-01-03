@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250809",
   "startDate": "2025-08-09",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250809/20250809_thumbnail.png",
-      "full": "assets/images/20250809/20250809.png",
+      "full": "assets/images/20250809/20250809_thumbnail.png",
       "alt": "省妇幼检测活动",
       "title": {
         "zh": "江西省妇幼保健院检测活动",

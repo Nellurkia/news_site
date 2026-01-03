@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20240413",
   "startDate": "2024-04-13",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240413/20240413 (1)_thumbnail.jpg",
-      "full": "assets/images/20240413/20240413 (1).jpg",
+      "full": "assets/images/20240413/20240413 (1)_thumbnail.jpg",
       "alt": "天津血研所活动现场",
       "title": {
         "zh": "天津血研所活动现场",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20240413/20240413 (2)_thumbnail.jpg",
-      "full": "assets/images/20240413/20240413 (2).jpg",
+      "full": "assets/images/20240413/20240413 (2)_thumbnail.jpg",
       "alt": "学习交流现场",
       "title": {
         "zh": "学习交流现场",

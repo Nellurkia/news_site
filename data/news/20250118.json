@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250118",
   "startDate": "2025-01-18",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250118/20250118_thumbnail.png",
-      "full": "assets/images/20250118/20250118.png",
+      "full": "assets/images/20250118/20250118_thumbnail.png",
       "alt": "省人民医院检测",
       "title": {
         "zh": "省人民医院检测活动",

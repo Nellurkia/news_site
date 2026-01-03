@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20250601",
   "startDate": "2025-06-01",
   "endDate": null,
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250601/20250601 (1)_thumbnail.png",
-      "full": "assets/images/20250601/20250601 (1).png",
+      "full": "assets/images/20250601/20250601 (1)_thumbnail.png",
       "alt": "论文封面",
       "title": {
         "zh": "统计建模大赛论文",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250601/20250601 (2)_thumbnail.png",
-      "full": "assets/images/20250601/20250601 (2).png",
+      "full": "assets/images/20250601/20250601 (2)_thumbnail.png",
       "alt": "研究方法",
       "title": {
         "zh": "统计建模大赛论文",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20250601/20250601 (3)_thumbnail.png",
-      "full": "assets/images/20250601/20250601 (3).png",
+      "full": "assets/images/20250601/20250601 (3)_thumbnail.png",
       "alt": "入围通知",
       "title": {
         "zh": "统计建模大赛论文",
