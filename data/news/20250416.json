@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250416",
   "startDate": "2025-04-16",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: 'Their Bleeding History' Interview Project Launched"
   },
   "subtitle": {
-    "zh": "让她们的声音被听见",
-    "en": "Let Their Voices Be Heard"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "血友姐妹会采访了数位受出血性疾病影响的女性，让她们的声音被听见。访谈计划包括5个主题：产床上险些丧命的血友妈妈、一年流掉身体90%血量的携带者姑娘、每次来月经都要打针的少女、不能上体育课的小女孩、一位母亲与两个VWD孩子。这些真实的故事揭示了女性血友病群体面临的困境和挑战。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250416/20250416_thumbnail.png",
-      "full": "assets/images/20250416/20250416_thumbnail.png",
+      "full": "assets/images/20250416/20250416.png",
       "alt": "访谈计划海报",
       "title": {
         "zh": "「她们的流血史」访谈计划",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250927",
   "startDate": "2025-09-27",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: Jiangxi Medical Association Laboratory Medicine Branch Academic Conference"
   },
   "subtitle": {
-    "zh": "第二十二次医学检验学分会学术会议",
-    "en": "22nd Laboratory Medicine Branch Academic Conference"
+    "zh": ["学术成果"],
+    "en": ["Academic Achievement"]
   },
   "description": {
     "zh": "左钰洁、古艳、周莉、龙品品等的论文《中国中部地区女性血友病携带者及女性血友病患者低成本临床预测模型》在「江西省医学会第二十二次医学检验学分会学术会议」优秀论文评选活动中荣获优胜奖。这一成果体现了血友姐妹会在学术研究方面的重要进展，为血友病女性的临床诊断提供了有价值的预测工具。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250927/20250927_thumbnail.jpg",
-      "full": "assets/images/20250927/20250927_thumbnail.jpg",
+      "full": "assets/images/20250927/20250927.jpg",
       "alt": "获奖证书",
       "title": {
         "zh": "优秀论文优胜奖证书",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250601",
   "startDate": "2025-06-01",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Wuhan: National College Student Statistical Modeling Competition Campus Preliminary Qualified"
   },
   "subtitle": {
-    "zh": "数据驱动的女性血友病杂合子研究",
-    "en": "Data-Driven Research on Female Hemophilia Heterozygotes"
+    "zh": ["竞赛活动"],
+    "en": ["Competition"]
   },
   "description": {
     "zh": "由华中科技大学学生左钰洁（数学与统计学院）、张梓润（生命科学与技术学院中法班）、顾宇涵（生命科学与技术学院生物医学工程专业）合作完成的论文《数据驱动的女性血友病杂合子的因果推断与出血风险预测》在全国大学生统计建模大赛校级初赛成功入围。这项研究将统计学方法应用于血友病女性群体研究，具有重要的学术价值。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250601/20250601 (1)_thumbnail.png",
-      "full": "assets/images/20250601/20250601 (1)_thumbnail.png",
+      "full": "assets/images/20250601/20250601 (1).png",
       "alt": "论文封面",
       "title": {
         "zh": "统计建模大赛论文",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250601/20250601 (2)_thumbnail.png",
-      "full": "assets/images/20250601/20250601 (2)_thumbnail.png",
+      "full": "assets/images/20250601/20250601 (2).png",
       "alt": "研究方法",
       "title": {
         "zh": "统计建模大赛论文",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20250601/20250601 (3)_thumbnail.png",
-      "full": "assets/images/20250601/20250601 (3)_thumbnail.png",
+      "full": "assets/images/20250601/20250601 (3).png",
       "alt": "入围通知",
       "title": {
         "zh": "统计建模大赛论文",

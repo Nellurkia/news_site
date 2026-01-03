@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20240919",
   "startDate": "2024-09-19",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: 'Carrier Testing Assistance' Project Officially Launched"
   },
   "subtitle": {
-    "zh": "做凝血检测，补贴100元",
-    "en": "Coagulation Testing with 100 Yuan Subsidy"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "南昌市血之友公益协会正式启动《携带者检测援助》项目，开始实施“做凝血检测，补贴100元”的援助方案。这是国内首个专门为血友病女性携带者提供检测费用援助的公益项目，标志着血友病女性关爱工作从理论倡导走向实际行动，为有需要的女性提供实质性的经济支持和健康保障。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240919/20240919_thumbnail.png",
-      "full": "assets/images/20240919/20240919_thumbnail.png",
+      "full": "assets/images/20240919/20240919.png",
       "alt": "项目启动公告",
       "title": {
         "zh": "项目正式启动",

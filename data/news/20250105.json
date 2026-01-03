@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250105",
   "startDate": "2025-01-05",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: Joyful New Year, Hemophilia Health"
   },
   "subtitle": {
-    "zh": "患者&携带者检测活动年会联欢",
-    "en": "Patient & Carrier Testing Activity Annual Celebration"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "南昌市血之友公益协会举办年会联欢活动“欢乐迎新年 血友大健康”——患者&携带者检测活动。南昌市第一医院检验科的古艳医师帮助提供了13个家系的基因检测名额，协会延续《携带者检测援助》项目，帮助37位女性得到了凝血检测。左钰洁线上进行“女性血友病携带者和患者”科普宣讲，在新年伊始为血友病群体送上健康关爱。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250105/20250105_thumbnail.png",
-      "full": "assets/images/20250105/20250105_thumbnail.png",
+      "full": "assets/images/20250105/20250105.png",
       "alt": "年会联欢活动",
       "title": {
         "zh": "年会联欢活动现场",

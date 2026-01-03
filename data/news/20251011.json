@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251011",
   "startDate": "2025-10-11",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Guangzhou: 3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases"
   },
   "subtitle": {
-    "zh": "论文交流与学术展示",
-    "en": "Paper Exchange and Academic Presentation"
+    "zh": ["学术会议", "学术成果"],
+    "en": ["Academic Conference", "Academic Achievement"]
   },
   "description": {
     "zh": "以华中科技大学数学与统计学院的左钰洁、安心宇、安徽医科大学第二附属医院血液科的周莉、南昌市第一医院检验科的古艳、华中科技大学同济医学院公共卫生学院的龙品品、何洋帆、姚婷耀，以及华中科技大学生命科学与技术学院的张梓润、万嘉瑞为作者的论文《中国中部地区女性血友病携带者及女性血友病患者的低成本临床预测模型》被中华医学会第三届罕见病学术年会接收为论文交流。血友姐妹会负责人和古艳医师共同前往广州参加这次学术年会。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251011/20251011 (5)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (5)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (5).jpg",
       "alt": "学术年会现场",
       "title": {
         "zh": "中华医学会第三届罕见病学术年会现场",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (2)_thumbnail.png",
-      "full": "assets/images/20251011/20251011 (2)_thumbnail.png",
+      "full": "assets/images/20251011/20251011 (2).png",
       "alt": "论文展示",
       "title": {
         "zh": "论文交流展示",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (1)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (1).jpg",
       "alt": "学术交流",
       "title": {
         "zh": "学术交流讨论",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (7)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (7)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (7).jpg",
       "alt": "会议证书",
       "title": {
         "zh": "学术交流讨论",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (6)_thumbnail.jpg",
-      "full": "assets/images/20251011/20251011 (6)_thumbnail.jpg",
+      "full": "assets/images/20251011/20251011 (6).jpg",
       "alt": "学术成果",
       "title": {
         "zh": "学术成果展示",
@@ -82,7 +82,7 @@
     },
     {
       "thumbnail": "assets/images/20251011/20251011 (1)_thumbnail.png",
-      "full": "assets/images/20251011/20251011 (1)_thumbnail.png",
+      "full": "assets/images/20251011/20251011 (1).png",
       "alt": "学术成果",
       "title": {
         "zh": "学术成果展示",
@@ -91,6 +91,32 @@
       "description": {
         "zh": "血友病女性关爱项目的学术研究成果在年会上得到展示和认可",
         "en": "Academic research achievements of hemophilia women's care project displayed and recognized at the annual conference"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011_thumbnail.png",
+      "full": "assets/images/20251011/20251011.png",
+      "alt": "获奖证书",
+      "title": {
+        "zh": "论文交流证书",
+        "en": "Paper Exchange Certificate"
+      },
+      "description": {
+        "zh": "中华医学会第三届罕见病学术年会论文交流证书",
+        "en": "Paper Exchange Certificate of 3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251011/20251011 (2)_thumbnail.png",
+      "full": "assets/images/20251011/20251011 (2).png",
+      "alt": "邀请函",
+      "title": {
+        "zh": "学术年会邀请函",
+        "en": "Academic Annual Conference Invitation"
+      },
+      "description": {
+        "zh": "中华医学会第三届罕见病学术年会邀请函",
+        "en": "Invitation to 3rd Academic Annual Conference of Chinese Medical Association on Rare Diseases"
       }
     }
   ],

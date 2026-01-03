@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250308",
   "startDate": "2025-03-08",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: International Women's Day Educational Videos Released"
   },
   "subtitle": {
-    "zh": "3个中文科普宣传视频",
-    "en": "3 Chinese Educational Promotional Videos"
+    "zh": ["科普教育", "竞赛活动"],
+    "en": ["Educational Activity", "Competition"]
   },
   "description": {
     "zh": "在国际妇女节这天，左钰洁发布了3个中文科普宣传视频。其中一个视频与华中科技大学公共卫生学院陈振阳同学合作，参与了华中科技大学同济学院公共卫生学院举办的大学生健康科普大赛，在6天内获得1900多枚真实投票，最终获得三等奖。这些视频以生动的形式普及血友病女性知识，提高公众认知。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250308/20250308 (1)_thumbnail.jpg",
-      "full": "assets/images/20250308/20250308 (1)_thumbnail.jpg",
+      "full": "assets/images/20250308/20250308 (1).jpg",
       "alt": "奖状",
       "title": {
         "zh": "获奖奖状",
@@ -31,7 +31,7 @@
 
     {
       "thumbnail": "assets/images/20250308/20250308 (2)_thumbnail.jpg",
-      "full": "assets/images/20250308/20250308 (2)_thumbnail.jpg",
+      "full": "assets/images/20250308/20250308 (2).jpg",
       "alt": "视频投票结果",
       "title": {
         "zh": "视频投票成果",
@@ -44,7 +44,7 @@
     },
     {
       "thumbnail": "assets/images/20250308/20250308 (1)_thumbnail.png",
-      "full": "assets/images/20250308/20250308 (1)_thumbnail.png",
+      "full": "assets/images/20250308/20250308 (1).png",
       "alt": "科普视频截图",
       "title": {
         "zh": "国际妇女节科普视频",
@@ -57,7 +57,7 @@
     },    
     {
       "thumbnail": "assets/images/20250308/20250308 (2)_thumbnail.png",
-      "full": "assets/images/20250308/20250308 (2)_thumbnail.png",
+      "full": "assets/images/20250308/20250308 (2).png",
       "alt": "科普视频截图",
       "title": {
         "zh": "国际妇女节科普视频",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250118",
   "startDate": "2025-01-18",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: Jiangxi Provincial People's Hospital Testing Activity"
   },
   "subtitle": {
-    "zh": "携带者检测援助项目持续进行",
-    "en": "Carrier Testing Assistance Project Continues"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "在江西省人民医院，南昌市血之友公益协会延续《携带者检测援助》项目，帮助10位女性得到了凝血检测。这次活动进一步扩大了项目的覆盖范围，与省级医院的合作为更多有需要的女性提供了便利的检测服务，体现了项目在推广过程中与各级医疗机构建立的良好合作关系。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250118/20250118_thumbnail.png",
-      "full": "assets/images/20250118/20250118_thumbnail.png",
+      "full": "assets/images/20250118/20250118.png",
       "alt": "省人民医院检测",
       "title": {
         "zh": "省人民医院检测活动",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250805",
   "startDate": "2025-08-05",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Shanghai: Co-Empowering the Future · Innovation for Good Conference"
   },
   "subtitle": {
-    "zh": "公益创新交流分享",
-    "en": "Public Welfare Innovation Exchange and Sharing"
+    "zh": ["竞赛活动"],
+    "en": ["Competition"]
   },
   "description": {
     "zh": "「共赋未来·创益大会」由上海益优青年服务中心主办。血友姐妹会负责人左钰洁作分享，向与会的公益组织和青年代表介绍血友病女性关爱项目的创新实践和发展经验。这次大会为不同领域的公益项目提供了交流平台，促进了公益创新理念的传播和实践经验的分享。",
@@ -17,7 +17,7 @@
   "images": [
         {
       "thumbnail": "assets/images/20250805/20250805 (2)_thumbnail.jpg",
-      "full": "assets/images/20250805/20250805 (2)_thumbnail.jpg",
+      "full": "assets/images/20250805/20250805 (2).jpg",
       "alt": "分享现场",
       "title": {
         "zh": "优秀项目表彰",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (1)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (1)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (1).JPG",
       "alt": "创益大会现场",
       "title": {
         "zh": "项目分享现场",
@@ -44,7 +44,7 @@
 
     {
       "thumbnail": "assets/images/20250805/20250805 (3)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (3)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (3).JPG",
       "alt": "会议合影",
       "title": {
         "zh": "项目分享现场",
@@ -57,7 +57,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (4)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (4)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (4).JPG",
       "alt": "交流讨论",
       "title": {
         "zh": "项目分享现场",
@@ -70,7 +70,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (5)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (5)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (5).JPG",
       "alt": "会议展示",
       "title": {
         "zh": "项目分享现场",
@@ -83,7 +83,7 @@
     },
     {
       "thumbnail": "assets/images/20250805/20250805 (6)_thumbnail.JPG",
-      "full": "assets/images/20250805/20250805 (6)_thumbnail.JPG",
+      "full": "assets/images/20250805/20250805 (6).JPG",
       "alt": "项目现场",
       "title": {
         "zh": "项目分享现场",

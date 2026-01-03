@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250417",
   "startDate": "2025-04-17",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: World Hemophilia Day & Hemophilia Women's Mutual Aid Website Launched"
   },
   "subtitle": {
-    "zh": "全民保障：女性和女孩也会流血",
-    "en": "Universal Coverage: Women and Girls Bleed Too"
+    "zh": ["产品发布"],
+    "en": ["Product Launch"]
   },
   "description": {
     "zh": "2025年世界血友病日主题是：「全民保障：女性和女孩也会流血」。血友姐妹会开发的国内首个「血友病女性互助网站」上线。其中包含科普资源、知识库、血友病注射诊所地图、月经估算工具等功能，为血友病女性群体提供全方位的信息支持和互助服务。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250417/20250417_thumbnail.jpg",
-      "full": "assets/images/20250417/20250417_thumbnail.jpg",
+      "full": "assets/images/20250417/20250417.jpg",
       "alt": "网站首页",
       "title": {
         "zh": "血友病女性互助网站",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250417/20250417_thumbnail.png",
-      "full": "assets/images/20250417/20250417_thumbnail.png",
+      "full": "assets/images/20250417/20250417.png",
       "alt": "网站功能",
       "title": {
         "zh": "网站功能介绍",

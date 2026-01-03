@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250426",
   "startDate": "2025-04-26",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Xiushui: Hemophilia Female Family Members Charity Testing Activity"
   },
   "subtitle": {
-    "zh": "送检到县服务延续",
-    "en": "Bringing Testing to Counties Service Continues"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "南昌血之友公益协会赴修水县开展血友病女性家属公益检测活动，延续「携带者检测援助」项目，帮助13名女性做凝血检测。这次活动进一步将专业检测服务延伸到更多县级地区，体现了项目在基层推广中的持续努力，让偏远地区的女性也能享受到便民的健康检测服务。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250426/20250426_thumbnail.png",
-      "full": "assets/images/20250426/20250426_thumbnail.png",
+      "full": "assets/images/20250426/20250426.png",
       "alt": "修水检测活动",
       "title": {
         "zh": "修水县检测活动现场",

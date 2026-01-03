@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250318",
   "startDate": "2025-03-18",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: English Version 'Survival Status of Female Hemophilia in China' Report Released"
   },
   "subtitle": {
-    "zh": "血友姐妹会制作英文报告",
-    "en": "Hemophilia Sisters Team Creates English Report"
+    "zh": ["国际交流","科普传播"],
+    "en": ["Making an International Voice","Educational Activity"]
   },
   "description": {
     "zh": "血友姐妹会制作了英文版《中国女性血友病生存状况》报告，发布于Reddit，并分享给多家国际NPO组织。这份报告首次以英文形式系统介绍了中国女性血友病群体的生存现状，向国际社会展示了中国在这一领域的研究成果和关爱实践，为促进国际交流与合作搭建了重要桥梁。",

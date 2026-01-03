@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20241123",
   "startDate": "2024-11-23",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Ganzhou Nankang: Bringing Testing to Counties, Health to Rural Areas"
   },
   "subtitle": {
-    "zh": "携带者检测费用援助项目活动",
-    "en": "Carrier Testing Cost Assistance Project Activity"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "“送检到县 健康下乡”——携带者检测费用援助项目活动在赣州南康成功举办，由南昌市血之友公益协会主办，南昌慈善总会进行活动指导，南康人民医院联办。在医生护士、检测公司、工作人员的合作下，帮助10位女性得到了凝血检测。左钰洁线上进行“女性血友病携带者和患者”宣讲，将专业知识和关爱服务送到基层。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20241123/20241123_thumbnail.png",
-      "full": "assets/images/20241123/20241123_thumbnail.png",
+      "full": "assets/images/20241123/20241123.png",
       "alt": "南康检测活动",
       "title": {
         "zh": "送检到县活动现场",

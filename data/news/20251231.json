@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251231",
   "startDate": "2025-12-31",
   "endDate": null,
@@ -7,14 +7,41 @@
     "en": "WFH Conference Abstract Accepted and to be Published in Official Journal"
   },
   "subtitle": {
-    "zh": "中国血友病家庭女性队列研究",
-    "en": "Chinese Cohort of Women and Girls from Hemophilia Families"
+    "zh": ["学术成果", "国际交流", "学术会议"],
+    "en": ["Academic Achievement", "International Exchange", "Academic Conference"]
   },
   "description": {
     "zh": "以华中科技大学数学与统计学院的左钰洁、南昌大学第三附属医院（南昌市第一医院）检验科的古艳医师、安徽医科大学第二附属医院血液科及安徽医科大学血友病诊疗中心的周莉医师、华中科技大学同济医学院公共卫生学院的龙品品、何洋帆、姚婷耀，以及华中科技大学生命科学与技术学院的万嘉瑞、张梓润为作者的摘要《Chinese Cohort of Women and Girls from Hemophilia Families: Survey Methodology, Baseline Characteristics, and Planned Follow-up》（Submission ID: 467）已被2026年世界血友病联盟（WFH）大会接收为专题海报展示，将在大会期间进行口头报告。此外，该摘要已被选中发表在世界血友病联盟官方期刊《血友病》（Haemophilia）增刊上。这项研究展示了中国血友病家庭女性队列的调查方法、基线特征和随访计划，为全球血友病女性关爱提供了重要的中国数据和经验。",
     "en": "The abstract 'Chinese Cohort of Women and Girls from Hemophilia Families: Survey Methodology, Baseline Characteristics, and Planned Follow-up' (Submission ID: 467), authored by Ms. Yujie Zuo from School of Mathematics and Statistics at Huazhong University of Science and Technology, Dr. Yan Gu from Department of Clinical Laboratory at The Third Affiliated Hospital of Nanchang University (The First Hospital of Nanchang), Dr. Li Zhou from Department of Hematology at The Second Affiliated Hospital of Anhui Medical University and Hemophilia Diagnosis and Treatment Center of Anhui Medical University, Dr. Pinpin Long, Ms. Yangfan He, and Ms. Tingyao Yao from School of Public Health at Tongji Medical College of Huazhong University of Science and Technology, and Ms. Jiarui Wan and Ms. Zirun Zhang from College of Life Science and Technology at Huazhong University of Science and Technology, has been accepted for themed poster presentation at the 2026 World Federation of Hemophilia (WFH) Congress, where an oral presentation will be given. Additionally, the abstract has been selected for publication in the supplement of Haemophilia, the official journal of WFH. This research presents survey methodology, baseline characteristics, and follow-up plans for the Chinese cohort of women and girls from hemophilia families, providing important Chinese data and experience for global hemophilia women's care."
   },
-  "images": [],
+  "images": [
+    {
+      "thumbnail": "assets/images/20251231/20251231 (1)_thumbnail.png",
+      "full": "assets/images/20251231/20251231 (1).png",
+      "alt": "录取通知",
+      "title": {
+        "zh": "录取通知",
+        "en": "Admission Notice"
+      },
+      "description": {
+        "zh": "WFH大会摘要录取通知",
+        "en": "WFH Conference Abstract Admission Notice"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251231/20251231 (2)_thumbnail.png",
+      "full": "assets/images/20251231/20251231 (2).png",
+      "alt": "录取通知",
+      "title": {
+        "zh": "录取通知",
+        "en": "Admission Notice"
+      },
+      "description": {
+        "zh": "WFH大会摘要录取通知",
+        "en": "WFH Conference Abstract Admission Notice"
+      }
+    }
+  ],
   "videos": [],
   "links": []
 }

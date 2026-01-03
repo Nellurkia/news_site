@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250603",
   "startDate": "2025-06-03",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: World Federation of Hemophilia Official Website Publishes Chinese Story"
   },
   "subtitle": {
-    "zh": "为中国女性血友病发声：我的和她们的故事",
-    "en": "Speaking for Chinese Women with Hemophilia: My Story and Theirs"
+    "zh": ["国际交流", "媒体传播"],
+    "en": ["International Exchange", "Media Coverage"]
   },
   "description": {
     "zh": "玉洁撰写的中国女性血友病故事「为中国女性血友病发声：我的和她们的故事」成功通过审核被接收，登上世界血友病联盟（WFH）官网故事板块（WHD Stories）。作为今年2025的WHD stories里首个中国故事，我们成功让世界听到了中国女性的呐喊，在国际平台上为中国血友病女性群体发出了强有力的声音。",

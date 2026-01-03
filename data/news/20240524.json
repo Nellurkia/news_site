@@ -1,4 +1,4 @@
-﻿
+
 {
   "id": "20240524",
   "startDate": "2024-05-24",
@@ -8,8 +8,8 @@
     "en": "Changsha: Second Hemophilia Patient Service Work Exchange and Cooperation Forum"
   },
   "subtitle": {
-    "zh": "长沙血友病医学交流大会",
-    "en": "Changsha Hemophilia Medical Exchange Conference"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "第二届血友病患者服务工作交流合作论坛在长沙成功举办，由中南大学湘雅医院主办，益阳市友联罕见病关爱服务中心协办，东台市博爱罕见病助残关爱中心承办。左钰洁进行《女性血友病携带者和患者》科普宣讲，进一步推广女性血友病关爱理念。",
@@ -18,7 +18,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240524/20250524 (1)_thumbnail.png",
-      "full": "assets/images/20240524/20250524 (1)_thumbnail.png",
+      "full": "assets/images/20240524/20250524 (1).png",
       "alt": "论坛现场",
       "title": {
         "zh": "论坛现场",
@@ -31,7 +31,7 @@
     },
     {
       "thumbnail": "assets/images/20240524/20250524 (2)_thumbnail.png",
-      "full": "assets/images/20240524/20250524 (2)_thumbnail.png",
+      "full": "assets/images/20240524/20250524 (2).png",
       "alt": "宣讲现场",
       "title": {
         "zh": "女性血友病科普宣讲",

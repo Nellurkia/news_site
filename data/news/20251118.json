@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251118",
   "startDate": "2025-11-18",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: How to Use AI for Public Welfare"
   },
   "subtitle": {
-    "zh": "章金媛志愿服务队线上分享",
-    "en": "Zhang Jinyuan Volunteer Service Team Online Sharing"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "左钰洁以“如何利用AI做好公益”为题，为章金媛志愿服务队成员作线上分享，探讨人工智能技术在公益事业中的应用，分享血友姐妹会在利用AI技术提升公益服务效率方面的经验和实践。",

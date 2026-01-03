@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250809",
   "startDate": "2025-08-09",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: Jiangxi Provincial Maternal and Child Health Hospital Testing Activity"
   },
   "subtitle": {
-    "zh": "携手省妇幼保健院生殖医院",
-    "en": "In Partnership with Provincial MCH Reproductive Hospital"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "南昌市血之友公益协会携手江西省妇幼保健院生殖医院，延续「携带者检测援助」项目，帮助14名女性得到了凝血检测。这次与省级妇幼保健院的合作，进一步提升了检测服务的专业水平，为有生育需求的血友病女性携带者提供了更加专业和便利的检测服务，体现了项目在医疗资源整合方面的不断进步。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250809/20250809_thumbnail.png",
-      "full": "assets/images/20250809/20250809_thumbnail.png",
+      "full": "assets/images/20250809/20250809.png",
       "alt": "省妇幼检测活动",
       "title": {
         "zh": "江西省妇幼保健院检测活动",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250524",
   "startDate": "2025-05-24",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Hangzhou: Inclusive Care, Empowering the Future"
   },
   "subtitle": {
-    "zh": "华东区血友病多方关爱暨组织赋能交流会",
-    "en": "East China Hemophilia Multi-party Care and Organizational Empowerment Exchange Conference"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "「共融关爱 赋能未来」华东区血友病多方关爱暨组织赋能交流会在杭州隆重举行。血友姐妹会负责人左钰洁同学以《正视血友病女性的诊断、治疗、护理需求》为题，展示了她历时半年开展调研的成果。这次会议汇聚了华东地区血友病领域的专家学者和患者组织代表，共同探讨血友病关爱事业的发展方向。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250524/20250524_thumbnail.jpg",
-      "full": "assets/images/20250524/20250524_thumbnail.jpg",
+      "full": "assets/images/20250524/20250524.jpg",
       "alt": "杭州交流会",
       "title": {
         "zh": "华东区血友病交流会现场",

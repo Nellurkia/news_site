@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250312",
   "startDate": "2025-03-12",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Wuhan: Application for Interdisciplinary Innovation and Entrepreneurship Project"
   },
   "subtitle": {
-    "zh": "血友姐妹会团队成立",
-    "en": "Hemophilia Sisters Team Established"
+    "zh": ["学术成果"],
+    "en": ["Academic Achievement"]
   },
   "description": {
     "zh": "在华中科技大学申请了大学生创新创业学科交叉项目「中国血友病女性携带者基因检测、凝血因子与出血情况的调查和分析」，2位指导老师分别来自华中科技大学数学与统计学院、华中科技大学同济医学院公共卫生学院，负责人是左钰洁，4位队友分别是数学与统计学院的安心宇、公共卫生学院的何洋帆、姚婷耀、生命科学学院的万嘉瑞。团队取名「血友姐妹会」。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20250312/20250312 (1)_thumbnail.jpg",
-      "full": "assets/images/20250312/20250312 (1)_thumbnail.jpg",
+      "full": "assets/images/20250312/20250312 (1).jpg",
       "alt": "血友姐妹会团队",
       "title": {
         "zh": "血友姐妹会团队介绍",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20250312/20250312 (1)_thumbnail.png",
-      "full": "assets/images/20250312/20250312 (1)_thumbnail.png",
+      "full": "assets/images/20250312/20250312 (1).png",
       "alt": "项目申请书",
       "title": {
         "zh": "大创项目申请",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20250312/20250312 (2)_thumbnail.png",
-      "full": "assets/images/20250312/20250312 (2)_thumbnail.png",
+      "full": "assets/images/20250312/20250312 (2).png",
       "alt": "项目研究内容",
       "title": {
         "zh": "项目研究方案",

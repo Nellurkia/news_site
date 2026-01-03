@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20240413",
   "startDate": "2024-04-13",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Tianjin: World Hemophilia Day Promotional Event"
   },
   "subtitle": {
-    "zh": "2024年世界血友病日主题宣传活动",
-    "en": "2024 World Hemophilia Day Promotional Activities"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "2024年世界血友病日主题宣传活动在天津血研所成功举办，由天津市红十字基金会、中国医学科学院血液病医院、天津市友爱罕见病关爱服务中心联合发起。南昌市血之友公益协会的左国良、左钰洁前往学习交流。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240413/20240413 (1)_thumbnail.jpg",
-      "full": "assets/images/20240413/20240413 (1)_thumbnail.jpg",
+      "full": "assets/images/20240413/20240413 (1).jpg",
       "alt": "天津血研所活动现场",
       "title": {
         "zh": "天津血研所活动现场",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20240413/20240413 (2)_thumbnail.jpg",
-      "full": "assets/images/20240413/20240413 (2)_thumbnail.jpg",
+      "full": "assets/images/20240413/20240413 (2).jpg",
       "alt": "学习交流现场",
       "title": {
         "zh": "学习交流现场",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251101",
   "startDate": "2025-11-01",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Wuhan: Hemophilia Sisters Project Mid-term Report Rated Excellent"
   },
   "subtitle": {
-    "zh": "华中科技大学学术成果",
-    "en": "HUST Academic Achievement"
+    "zh": ["学术成果"],
+    "en": ["Academic Achievement"]
   },
   "description": {
     "zh": "华中科技大学血友姐妹会队伍的大创项目中期报告评级优秀。该项目展示了团队在血友病女性关爱领域的研究进展和学术成果，获得了评审专家的高度认可。",

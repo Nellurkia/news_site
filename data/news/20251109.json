@@ -1,0 +1,60 @@
+{
+  "id": "20251109",
+  "startDate": "2025-11-09",
+  "endDate": null,
+  "title": {
+    "zh": "团队成员在全国大学生数学建模竞赛获得省级一等奖",
+    "en": "Team Members Won Provincial First Prize in National Mathematical Modeling Competition"
+  },
+  "subtitle": {
+    "zh": ["竞赛活动"],
+    "en": ["Competition"]
+  },
+  "description": {
+    "zh": "团队成员在全国大学生数学建模竞赛中表现优异，荣获省级一等奖。这一成绩展示了团队在数学建模和数据分析方面的扎实功底，为血友病女性关爱项目的数据研究提供了强有力的技术支撑。",
+    "en": "Team members performed excellently in the National Mathematical Modeling Competition and won the Provincial First Prize. This achievement demonstrates the team's solid foundation in mathematical modeling and data analysis, providing strong technical support for data research in the hemophilia women's care project."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20251109/20251109 (1)_thumbnail.png",
+      "full": "assets/images/20251109/20251109 (1).png",
+      "alt": "获奖证书",
+      "title": {
+        "zh": "数学建模竞赛获奖证书",
+        "en": "Mathematical Modeling Competition Award Certificate"
+      },
+      "description": {
+        "zh": "全国大学生数学建模竞赛省级一等奖证书",
+        "en": "Provincial First Prize Certificate of National Mathematical Modeling Competition"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251109/20251109 (2)_thumbnail.png",
+      "full": "assets/images/20251109/20251109 (2).png",
+      "alt": "获奖证书",
+      "title": {
+        "zh": "数学建模竞赛获奖证书",
+        "en": "Mathematical Modeling Competition Award Certificate"
+      },
+      "description": {
+        "zh": "全国大学生数学建模竞赛省级一等奖证书",
+        "en": "Provincial First Prize Certificate of National Mathematical Modeling Competition"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20251109/20251109 (3)_thumbnail.png",
+      "full": "assets/images/20251109/20251109 (3).png",
+      "alt": "获奖证书",
+      "title": {
+        "zh": "数学建模竞赛获奖证书",
+        "en": "Mathematical Modeling Competition Award Certificate"
+      },
+      "description": {
+        "zh": "全国大学生数学建模竞赛省级一等奖证书",
+        "en": "Provincial First Prize Certificate of National Mathematical Modeling Competition"
+      }
+    }
+  ],
+  "videos": [],
+  "links": []
+}

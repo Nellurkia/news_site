@@ -1,0 +1,55 @@
+{
+  "id": "20250405",
+  "startDate": "2025-04-05",
+  "endDate": null,
+  "title": {
+    "zh": "线上：小红书爆款帖子引发社会关注",
+    "en": "Online: Viral Xiaohongshu Post Sparks Social Attention"
+  },
+  "subtitle": {
+    "zh": ["媒体传播", "科普教育"],
+    "en": ["Media Coverage", "Educational Activity"]
+  },
+  "description": {
+    "zh": "血友姐妹会小红书官方账号发布帖子《少年的我每月流血200mL，但我18岁才知道》，讲述女性血友病患者每月月经过多、致严重缺铁性贫血、影响学习生活，却经历了七年的诊断延迟才发现的经历。帖子发出后，24小时内获得2000+点赞，目前已累计10万浏览。该帖子成功唤起了社会大众对女性出血性疾病的认识和关注。",
+    "en": "The official Xiaohongshu account of Hemophilia Sisters published a post titled 'I Bled 200mL Every Month as a Teenager, But Only Found Out at 18', telling the story of a female hemophilia patient who experienced heavy menstrual bleeding, severe iron deficiency anemia, and impaired daily life, yet faced a seven-year diagnostic delay. Within 24 hours of publication, the post received over 2,000 likes and has now accumulated 100,000 views. This post successfully raised public awareness and attention to bleeding disorders in women."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250405/20250405 (1)_thumbnail.png",
+      "full": "assets/images/20250405/20250405 (1).png",
+      "alt": "小红书帖子截图",
+      "title": {
+        "zh": "小红书爆款帖子",
+        "en": "Viral Xiaohongshu Post"
+      },
+      "description": {
+        "zh": "《少年的我每月流血200mL，但我18岁才知道》帖子截图，展示了女性血友病患者的真实经历",
+        "en": "Screenshot of the post 'I Bled 200mL Every Month as a Teenager, But Only Found Out at 18', showing the real experience of a female hemophilia patient"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250405/20250405 (2)_thumbnail.png",
+      "full": "assets/images/20250405/20250405 (2).png",
+      "alt": "帖子数据统计",
+      "title": {
+        "zh": "帖子传播数据",
+        "en": "Post Engagement Data"
+      },
+      "description": {
+        "zh": "帖子获得2000+点赞，累计10万浏览的数据展示",
+        "en": "Data showing over 2,000 likes and 100,000 views"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://www.xiaohongshu.com/explore/67f0ab09000000001b03ce07",
+      "title": {
+        "zh": "小红书：查看原帖",
+        "en": "Xiaohongshu: View Original Post"
+      }
+    }
+  ]
+}

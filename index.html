@@ -59,14 +59,55 @@
 
     <main class="main">
         <div class="container">
+            <!-- 搜索栏 -->
+            <div class="search-bar-container">
+                <button id="search-toggle" class="search-toggle" title="搜索">
+                    <span class="search-icon">🔍</span>
+                </button>
+                <div id="search-panel" class="search-panel">
+                    <input type="date" id="search-date-from" class="search-input search-date">
+                    <span class="search-separator">~</span>
+                    <input type="date" id="search-date-to" class="search-input search-date">
+                    <div class="search-type-wrapper">
+                        <button id="search-type-toggle" class="search-type-toggle">
+                            <span data-zh="类型" data-en="Type">类型</span>
+                            <span class="dropdown-arrow">▾</span>
+                        </button>
+                        <div id="search-type-dropdown" class="search-type-dropdown">
+                            <!-- 复选框将动态生成 -->
+                        </div>
+                    </div>
+                    <input type="text" id="search-keyword" class="search-input search-keyword" 
+                           data-zh-placeholder="请输入关键字" data-en-placeholder="Enter keywords" placeholder="请输入关键字">
+                    <button id="search-clear" class="search-clear" data-zh="清除" data-en="Clear">清除</button>
+                    <button id="search-submit" class="search-submit" data-zh="搜索" data-en="Search">搜索</button>
+                </div>
+            </div>
+
             <div id="news-container" class="news-grid">
                 <!-- 新闻内容将在这里动态加载 -->
             </div>
 
             <div class="pagination">
                 <button id="prev-page" class="page-btn" disabled data-zh="上一页" data-en="Previous">上一页</button>
-                <span id="page-info" class="page-info">第 1 页，共 1 页</span>
+                <button id="page-selector" class="page-selector">
+                    <span id="page-info">1 / 1</span>
+                    <span class="page-dropdown-icon">▾</span>
+                </button>
                 <button id="next-page" class="page-btn" disabled data-zh="下一页" data-en="Next">下一页</button>
+            </div>
+
+            <!-- 页码选择器底部弹窗 -->
+            <div id="page-picker-overlay" class="page-picker-overlay">
+                <div class="page-picker-content">
+                    <div class="page-picker-header">
+                        <span class="page-picker-title" data-zh="选择页码" data-en="Select Page">选择页码</span>
+                        <button class="page-picker-close" id="close-page-picker">&times;</button>
+                    </div>
+                    <div class="page-picker-grid" id="page-picker-grid">
+                        <!-- 页码按钮将动态生成 -->
+                    </div>
+                </div>
             </div>
 
             <div id="loading" class="loading" style="display: none;">

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250914",
   "startDate": "2025-09-14",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: Southwest Regional Hemophilia Academic Frontier Exchange Conference"
   },
   "subtitle": {
-    "zh": "血友病组织创新实践赋能交流会",
-    "en": "Hemophilia Organization Innovation Practice Empowerment Exchange Conference"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "西南区域血友病学术前沿交流会暨血友病组织创新实践赋能交流会由南昌市血之友公益协会主办。血友姐妹会负责人左钰洁以《女性血友病携带者为何也会患血友病？解密基因表达》为题作分享。南昌血之友公益协会延续「携带者检测援助」项目，帮助18名女性做凝血检测。这次会议展示了南昌在血友病学术研究和组织创新方面的成果。",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20240406",
   "startDate": "2024-04-06",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: 36th World Hemophilia Day Memorial Event"
   },
   "subtitle": {
-    "zh": "2024年关注罕见病大健康多省市交流高峰会",
-    "en": "2024 Multi-Provincial Health Summit on Rare Diseases"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "由南昌市血之友公益协会主办的“纪念第36个世界血友病日主题活动&2024年关注罕见病大健康多省市交流高峰会”在南昌成功举办。左钰洁首次提出了《关爱女性血友病，关爱我们的母亲、姐妹和女儿》的倡议宣讲，并发布许多论文、文献的翻译，包括ISTH-BAT（国际血栓与止血学会-出血评估工具）量表的翻译。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240406/20240406 (1)_thumbnail.JPG",
-      "full": "assets/images/20240406/20240406 (1)_thumbnail.JPG",
+      "full": "assets/images/20240406/20240406 (1).JPG",
       "alt": "活动现场照片",
       "title": {
         "zh": "活动现场照片",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20240406/20240406 (1)_thumbnail.png",
-      "full": "assets/images/20240406/20240406 (1)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (1).png",
       "alt": "翻译资料",
       "title": {
         "zh": "翻译资料",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20240406/20240406 (1)_thumbnail.webp",
-      "full": "assets/images/20240406/20240406 (1)_thumbnail.webp",
+      "full": "assets/images/20240406/20240406 (1).webp",
       "alt": "参会人员合影",
       "title": {
         "zh": "参会人员合影",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20240406/20240406 (2)_thumbnail.png",
-      "full": "assets/images/20240406/20240406 (2)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (2).png",
       "alt": "翻译资料",
       "title": {
         "zh": "翻译资料",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20240406/20240406 (3)_thumbnail.png",
-      "full": "assets/images/20240406/20240406 (3)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (3).png",
       "alt": "会议资料展示",
       "title": {
         "zh": "会议资料展示",
@@ -82,7 +82,7 @@
     },
     {
       "thumbnail": "assets/images/20240406/20240406 (4)_thumbnail.png",
-      "full": "assets/images/20240406/20240406 (4)_thumbnail.png",
+      "full": "assets/images/20240406/20240406 (4).png",
       "alt": "翻译资料",
       "title": {
         "zh": "翻译资料",
@@ -95,7 +95,7 @@
     },
     {
       "thumbnail": "assets/images/20240406/20240406(6)_thumbnail.png",
-      "full": "assets/images/20240406/20240406(6)_thumbnail.png",
+      "full": "assets/images/20240406/20240406(6).png",
       "alt": "翻译资料",
       "description": {
         "zh": "展示ISTH-BAT量表翻译和相关研究文献资料",

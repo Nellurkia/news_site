@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250228",
   "startDate": "2025-02-28",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: Chinese Interim Report Released"
   },
   "subtitle": {
-    "zh": "综合现有调查分析成果",
-    "en": "Comprehensive Analysis of Existing Survey Results"
+    "zh": ["科普教育"],
+    "en": ["Educational Activity"]
   },
   "description": {
     "zh": "左钰洁综合现有的调查分析，发布一份中文中期报告。这份报告系统梳理了前期开展的各项调查研究成果，深入分析了中国血友病女性群体的现状和需求，为后续工作的深入开展提供了重要的数据支撑和理论基础，标志着血友病女性关爱研究工作进入新的阶段。",

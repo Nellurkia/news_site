@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251220",
   "startDate": "2025-12-20",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Wuhan: HUST International Competence Training Program"
   },
   "subtitle": {
-    "zh": "开班仪式",
-    "en": "Opening Ceremony"
+    "zh": ["学习", "国际交流"],
+    "en": ["Learning", "International Exchange"]
   },
   "description": {
     "zh": "华中科技大学国际胜任力培养班开班仪式在武汉举行，左钰洁参加开班仪式,聆听联合国国际劳工组织前国家局局长李东林老师带来深度课程。该培养班旨在提升学生的国际视野和跨文化交流能力，培养具有国际竞争力的高素质人才。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251220/20251220 (1)_thumbnail.jpg",
-      "full": "assets/images/20251220/20251220 (1)_thumbnail.jpg",
+      "full": "assets/images/20251220/20251220 (1).jpg",
       "alt": "激烈探讨",
       "title": {
         "zh": "国际胜任力培养班讨论",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251220/20251220 (2)_thumbnail.jpg",
-      "full": "assets/images/20251220/20251220 (2)_thumbnail.jpg",
+      "full": "assets/images/20251220/20251220 (2).jpg",
       "alt": "签名墙",
       "title": {
         "zh": "开班仪式签名墙",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20251220/20251220 (3)_thumbnail.jpg",
-      "full": "assets/images/20251220/20251220 (3)_thumbnail.jpg",
+      "full": "assets/images/20251220/20251220 (3).jpg",
       "alt": "激烈探讨",
       "title": {
         "zh": "小组讨论交流",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20251220/20251220 (4)_thumbnail.jpg",
-      "full": "assets/images/20251220/20251220 (4)_thumbnail.jpg",
+      "full": "assets/images/20251220/20251220 (4).jpg",
       "alt": "签名墙",
       "title": {
         "zh": "培养班签名留念",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20251220/20251220 (5)_thumbnail.jpg",
-      "full": "assets/images/20251220/20251220 (5)_thumbnail.jpg",
+      "full": "assets/images/20251220/20251220 (5).jpg",
       "alt": "合照",
       "title": {
         "zh": "国际胜任力培养班合影",
@@ -82,7 +82,7 @@
     },
     {
       "thumbnail": "assets/images/20251220/20251220 (6)_thumbnail.jpg",
-      "full": "assets/images/20251220/20251220 (6)_thumbnail.jpg",
+      "full": "assets/images/20251220/20251220 (6).jpg",
       "alt": "激烈探讨",
       "title": {
         "zh": "学术交流讨论",

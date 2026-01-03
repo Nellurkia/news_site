@@ -30,6 +30,15 @@ class I18n {
             }
         });
 
+        // 更新placeholder
+        const placeholderElements = document.querySelectorAll('[data-zh-placeholder][data-en-placeholder]');
+        placeholderElements.forEach(element => {
+            const placeholder = element.getAttribute(`data-${this.currentLang}-placeholder`);
+            if (placeholder) {
+                element.placeholder = placeholder;
+            }
+        });
+
         // 更新语言按钮状态
         document.querySelectorAll('.lang-btn').forEach(btn => {
             btn.classList.remove('active');

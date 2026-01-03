@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251018",
   "startDate": "2025-10-18",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Nanchang: Hemophilia Female Family Members Care Testing Charity Activity"
   },
   "subtitle": {
-    "zh": "携带者检测援助项目持续推进",
-    "en": "Carrier Testing Assistance Project Continues to Advance"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "南昌血之友公益协会赴南昌市开展血友病女性家属关爱检测公益活动，延续「携带者检测援助」项目，帮助了数个家庭、十多位家庭成员、5位女性做凝血因子检测。",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251204",
   "startDate": "2025-12-04",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Shanghai: 2025 Annual Forum for Entrepreneurs Supporting People with Disabilities"
   },
   "subtitle": {
-    "zh": "南昌市血之友公益协会参展",
-    "en": "Nanchang Hemophilia Association Participation"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "2025年度助残企业家论坛在上海举行，左钰洁代表南昌市血之友公益协会参展。论坛汇聚了众多关注残障人士权益的企业家和公益组织，共同探讨如何更好地支持和帮助残障群体，血友姐妹会在论坛上展示了在血友病女性关爱领域的工作成果。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251204/20251204 (1)_thumbnail.jpg",
-      "full": "assets/images/20251204/20251204 (1)_thumbnail.jpg",
+      "full": "assets/images/20251204/20251204 (1).jpg",
       "alt": "摆摊参展",
       "title": {
         "zh": "助残企业家论坛参展",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251204/20251204 (2)_thumbnail.jpg",
-      "full": "assets/images/20251204/20251204 (2)_thumbnail.jpg",
+      "full": "assets/images/20251204/20251204 (2).jpg",
       "alt": "签名墙",
       "title": {
         "zh": "论坛签名墙",

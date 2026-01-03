@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20250822",
   "startDate": "2025-08-22",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Anhui: Moving Forward on Medical Path, Building Hope Together"
   },
   "subtitle": {
-    "zh": "血友病患者医学教育助力项目培训会",
-    "en": "Hemophilia Patient Medical Education Support Project Training Conference"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "借助潜山市汇爱罕见病助残关爱中心开展的「医路前行·共筑希望」血友病患者医学教育助力项目第二期培训会议，血友姐妹会负责人左钰洁以《女性血友病携带者为何也会患血友病？解密基因表达》为题作线上分享。这次分享深入浅出地解释了女性血友病的发病机制，为安徽地区的患者和家属提供了专业的科普教育。",

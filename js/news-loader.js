@@ -2,6 +2,7 @@
 class NewsLoader {
     constructor() {
         this.newsData = [];
+        this.filteredData = []; // 搜索过滤后的数据
         this.currentPage = 1;
         this.itemsPerPage = 10;
         this.sortOrder = 'desc'; // 'asc' 或 'desc'
@@ -9,6 +10,13 @@ class NewsLoader {
         this.currentImageIndex = 0;
         this.currentNewsId = null; // 用于跟踪当前新闻ID
         this.fromGallery = false; // 用于跟踪是否从相册墙打开的图片
+        this.searchActive = false; // 搜索是否激活
+        this.searchFilters = {
+            dateFrom: '',
+            dateTo: '',
+            types: [],
+            keyword: ''
+        };
     }
 
     // 加载新闻索引
@@ -47,7 +55,9 @@ class NewsLoader {
             const newsItems = await Promise.all(newsPromises);
 
             this.newsData = newsItems.filter(item => item !== null);
+            this.filteredData = [...this.newsData]; // 初始化过滤数据
             this.sortNews();
+            this.initializeSearchTypes(); // 初始化搜索类型
             this.renderCurrentPage();
         } catch (error) {
             console.error('加载新闻数据失败:', error);
@@ -58,7 +68,8 @@ class NewsLoader {
 
     // 排序新闻
     sortNews() {
-        this.newsData.sort((a, b) => {
+        const dataToSort = this.searchActive ? this.filteredData : this.newsData;
+        dataToSort.sort((a, b) => {
             const dateA = new Date(a.startDate);
             const dateB = new Date(b.startDate);
             return this.sortOrder === 'desc' ? dateB - dateA : dateA - dateB;
@@ -95,14 +106,16 @@ class NewsLoader {
 
     // 获取当前页数据
     getCurrentPageData() {
+        const dataSource = this.searchActive ? this.filteredData : this.newsData;
         const startIndex = (this.currentPage - 1) * this.itemsPerPage;
         const endIndex = startIndex + this.itemsPerPage;
-        return this.newsData.slice(startIndex, endIndex);
+        return dataSource.slice(startIndex, endIndex);
     }
 
     // 获取总页数
     getTotalPages() {
-        return Math.ceil(this.newsData.length / this.itemsPerPage);
+        const dataSource = this.searchActive ? this.filteredData : this.newsData;
+        return Math.ceil(dataSource.length / this.itemsPerPage);
     }
 
     // 渲染新闻卡片
@@ -288,15 +301,221 @@ class NewsLoader {
     // 更新分页信息
     updatePagination() {
         const totalPages = this.getTotalPages();
-        const lang = window.i18n.getCurrentLanguage();
 
         document.getElementById('prev-page').disabled = this.currentPage <= 1;
         document.getElementById('next-page').disabled = this.currentPage >= totalPages;
 
-        const pageInfoText = lang === 'zh'
-            ? `第 ${this.currentPage} 页，共 ${totalPages} 页`
-            : `Page ${this.currentPage} of ${totalPages}`;
-        document.getElementById('page-info').textContent = pageInfoText;
+        // 更新页码显示为简洁格式
+        document.getElementById('page-info').textContent = `${this.currentPage} / ${totalPages}`;
+    }
+
+    // 打开页码选择器
+    openPagePicker() {
+        const overlay = document.getElementById('page-picker-overlay');
+        const grid = document.getElementById('page-picker-grid');
+        const totalPages = this.getTotalPages();
+
+        // 生成页码按钮
+        grid.innerHTML = '';
+        for (let i = 1; i <= totalPages; i++) {
+            const btn = document.createElement('button');
+            btn.className = 'page-picker-btn';
+            if (i === this.currentPage) {
+                btn.classList.add('active');
+            }
+            btn.textContent = i;
+            btn.addEventListener('click', () => {
+                this.goToPage(i);
+                this.closePagePicker();
+            });
+            grid.appendChild(btn);
+        }
+
+        overlay.classList.add('active');
+        document.body.style.overflow = 'hidden'; // 防止背景滚动
+    }
+
+    // 关闭页码选择器
+    closePagePicker() {
+        const overlay = document.getElementById('page-picker-overlay');
+        overlay.classList.remove('active');
+        document.body.style.overflow = ''; // 恢复滚动
+    }
+
+    // 跳转到指定页
+    goToPage(pageNumber) {
+        const totalPages = this.getTotalPages();
+        if (pageNumber >= 1 && pageNumber <= totalPages) {
+            this.currentPage = pageNumber;
+            this.renderCurrentPage();
+            // 滚动到顶部
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    }
+
+    // 初始化搜索类型选项
+    initializeSearchTypes() {
+        const lang = window.i18n.getCurrentLanguage();
+        const typesSet = new Set();
+        
+        // 收集所有唯一的 subtitle
+        this.newsData.forEach(news => {
+            if (news.subtitle && news.subtitle[lang]) {
+                const subtitles = Array.isArray(news.subtitle[lang]) 
+                    ? news.subtitle[lang] 
+                    : [news.subtitle[lang]];
+                subtitles.forEach(sub => typesSet.add(sub));
+            }
+        });
+
+        const dropdown = document.getElementById('search-type-dropdown');
+        dropdown.innerHTML = '';
+
+        Array.from(typesSet).sort().forEach(type => {
+            const option = document.createElement('div');
+            option.className = 'search-type-option';
+            option.innerHTML = `
+                <input type="checkbox" id="type-${type}" value="${type}">
+                <label for="type-${type}">${type}</label>
+            `;
+            dropdown.appendChild(option);
+        });
+    }
+
+    // 切换搜索面板
+    toggleSearchPanel() {
+        const panel = document.getElementById('search-panel');
+        const toggle = document.getElementById('search-toggle');
+        
+        if (panel.classList.contains('active')) {
+            panel.classList.remove('active');
+        } else {
+            panel.classList.add('active');
+            // 更新类型选项（以防语言切换）
+            this.initializeSearchTypes();
+        }
+    }
+
+    // 切换类型下拉框
+    toggleTypeDropdown() {
+        const dropdown = document.getElementById('search-type-dropdown');
+        const toggle = document.getElementById('search-type-toggle');
+        
+        dropdown.classList.toggle('active');
+        toggle.classList.toggle('active');
+    }
+
+    // 执行搜索
+    performSearch() {
+        const lang = window.i18n.getCurrentLanguage();
+        
+        // 获取搜索条件
+        this.searchFilters.dateFrom = document.getElementById('search-date-from').value;
+        this.searchFilters.dateTo = document.getElementById('search-date-to').value;
+        this.searchFilters.keyword = document.getElementById('search-keyword').value.trim().toLowerCase();
+        
+        // 获取选中的类型
+        const typeCheckboxes = document.querySelectorAll('#search-type-dropdown input[type="checkbox"]:checked');
+        this.searchFilters.types = Array.from(typeCheckboxes).map(cb => cb.value);
+
+        // 检查是否有任何搜索条件
+        const hasFilters = this.searchFilters.dateFrom || 
+                          this.searchFilters.dateTo || 
+                          this.searchFilters.types.length > 0 || 
+                          this.searchFilters.keyword;
+
+        if (!hasFilters) {
+            // 没有搜索条件，显示所有数据
+            this.clearSearch();
+            return;
+        }
+
+        // 过滤数据
+        this.filteredData = this.newsData.filter(news => {
+            // 日期过滤
+            if (this.searchFilters.dateFrom) {
+                const newsDate = new Date(news.startDate);
+                const fromDate = new Date(this.searchFilters.dateFrom);
+                if (newsDate < fromDate) return false;
+            }
+            
+            if (this.searchFilters.dateTo) {
+                const newsDate = new Date(news.startDate);
+                const toDate = new Date(this.searchFilters.dateTo);
+                if (newsDate > toDate) return false;
+            }
+
+            // 类型过滤
+            if (this.searchFilters.types.length > 0) {
+                const newsSubtitles = news.subtitle && news.subtitle[lang]
+                    ? (Array.isArray(news.subtitle[lang]) ? news.subtitle[lang] : [news.subtitle[lang]])
+                    : [];
+                
+                const hasMatchingType = newsSubtitles.some(sub => 
+                    this.searchFilters.types.includes(sub)
+                );
+                
+                if (!hasMatchingType) return false;
+            }
+
+            // 关键词过滤
+            if (this.searchFilters.keyword) {
+                const title = (news.title[lang] || news.title.zh || '').toLowerCase();
+                const description = (news.description[lang] || news.description.zh || '').toLowerCase();
+                const subtitle = news.subtitle && news.subtitle[lang]
+                    ? (Array.isArray(news.subtitle[lang]) ? news.subtitle[lang].join(' ') : news.subtitle[lang]).toLowerCase()
+                    : '';
+                
+                const searchText = `${title} ${description} ${subtitle}`;
+                if (!searchText.includes(this.searchFilters.keyword)) return false;
+            }
+
+            return true;
+        });
+
+        this.searchActive = true;
+        this.currentPage = 1; // 重置到第一页
+        this.sortNews();
+        this.renderCurrentPage();
+        
+        // 关闭搜索面板，显示激活状态
+        document.getElementById('search-panel').classList.remove('active');
+        document.getElementById('search-toggle').classList.add('active');
+        
+        // 关闭类型下拉框
+        document.getElementById('search-type-dropdown').classList.remove('active');
+        document.getElementById('search-type-toggle').classList.remove('active');
+    }
+
+    // 清除搜索
+    clearSearch() {
+        // 重置搜索条件
+        this.searchFilters = {
+            dateFrom: '',
+            dateTo: '',
+            types: [],
+            keyword: ''
+        };
+        
+        // 清空输入框
+        document.getElementById('search-date-from').value = '';
+        document.getElementById('search-date-to').value = '';
+        document.getElementById('search-keyword').value = '';
+        
+        // 取消所有类型选择
+        document.querySelectorAll('#search-type-dropdown input[type="checkbox"]').forEach(cb => {
+            cb.checked = false;
+        });
+
+        // 重置状态
+        this.searchActive = false;
+        this.filteredData = [...this.newsData];
+        this.currentPage = 1;
+        this.sortNews();
+        this.renderCurrentPage();
+        
+        // 移除激活状态
+        document.getElementById('search-toggle').classList.remove('active');
     }
 
     // 上一页
@@ -542,6 +761,66 @@ class NewsLoader {
         document.getElementById('prev-page').addEventListener('click', () => this.prevPage());
         document.getElementById('next-page').addEventListener('click', () => this.nextPage());
 
+        // 绑定页码选择器事件
+        document.getElementById('page-selector').addEventListener('click', () => this.openPagePicker());
+        document.getElementById('close-page-picker').addEventListener('click', () => this.closePagePicker());
+        
+        // 点击遮罩层关闭
+        document.getElementById('page-picker-overlay').addEventListener('click', (e) => {
+            if (e.target.id === 'page-picker-overlay') {
+                this.closePagePicker();
+            }
+        });
+
+        // 绑定搜索事件
+        document.getElementById('search-toggle').addEventListener('click', () => this.toggleSearchPanel());
+        document.getElementById('search-type-toggle').addEventListener('click', (e) => {
+            e.stopPropagation();
+            this.toggleTypeDropdown();
+        });
+        document.getElementById('search-submit').addEventListener('click', () => this.performSearch());
+        document.getElementById('search-clear').addEventListener('click', () => this.clearSearch());
+        
+        // 搜索框回车触发搜索
+        document.getElementById('search-keyword').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                this.performSearch();
+            }
+        });
+
+        // 点击其他地方关闭类型下拉框
+        document.addEventListener('click', (e) => {
+            const dropdown = document.getElementById('search-type-dropdown');
+            const toggle = document.getElementById('search-type-toggle');
+            if (dropdown.classList.contains('active') && 
+                !dropdown.contains(e.target) && 
+                !toggle.contains(e.target)) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            }
+        });
+
+        // ESC键关闭页码选择器和搜索面板
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                const overlay = document.getElementById('page-picker-overlay');
+                if (overlay.classList.contains('active')) {
+                    this.closePagePicker();
+                }
+                
+                const searchPanel = document.getElementById('search-panel');
+                if (searchPanel.classList.contains('active')) {
+                    searchPanel.classList.remove('active');
+                }
+                
+                const typeDropdown = document.getElementById('search-type-dropdown');
+                if (typeDropdown.classList.contains('active')) {
+                    typeDropdown.classList.remove('active');
+                    document.getElementById('search-type-toggle').classList.remove('active');
+                }
+            }
+        });
+
         // 绑定排序事件
         document.getElementById('sort-toggle').addEventListener('click', () => {
             this.toggleSortOrder();
@@ -564,6 +843,10 @@ class NewsLoader {
         window.addEventListener('languageChanged', () => {
             this.renderCurrentPage();
             this.updateSortButton();
+            // 重新初始化搜索类型（语言切换时）
+            if (this.newsData.length > 0) {
+                this.initializeSearchTypes();
+            }
         });
 
         // 初始化排序按钮显示

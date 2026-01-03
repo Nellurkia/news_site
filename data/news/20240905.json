@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20240905",
   "startDate": "2024-09-05",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: Tencent Charity 'Carrier Testing Assistance' Project Launch"
   },
   "subtitle": {
-    "zh": "血友病女性关爱公益项目正式上线",
-    "en": "Hemophilia Women's Care Charity Project Officially Launched"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "在腾讯公益久久公益节期间，南昌市血之友公益协会在南昌市慈善总会指导下，由左国良和左钰洁申请的《携带者检测援助》项目正式启动。左钰洁制作了专业的项目宣传海报和视频，为血友病女性携带者提供检测费用援助，这是国内首个专门针对血友病女性群体的公益援助项目。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240905/20240905 (2)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (2)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (2).png",
       "alt": "项目宣传海报",
       "title": {
         "zh": "携带者检测援助项目海报",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (9)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (9)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (9).png",
       "alt": "宣传视频封面",
       "title": {
         "zh": "宣传视频封面",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (3)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (3)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (3).png",
       "alt": "宣传视频封面",
       "title": {
         "zh": "宣传视频封面",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (4)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (4)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (4).png",
       "alt": "宣传视频封面",
       "title": {
         "zh": "宣传视频封面",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (5)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (5)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (5).png",
       "alt": "宣传视频截图",
       "title": {
         "zh": "宣传视频截图",
@@ -82,7 +82,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (8)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (8)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (8).png",
       "alt": "宣传视频截图",
       "title": {
         "zh": "宣传视频截图",
@@ -95,7 +95,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (6)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (6)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (6).png",
       "alt": "宣传视频截图",
       "title": {
         "zh": "宣传视频截图",
@@ -108,7 +108,7 @@
     },
     {
       "thumbnail": "assets/images/20240905/20240905 (7)_thumbnail.png",
-      "full": "assets/images/20240905/20240905 (7)_thumbnail.png",
+      "full": "assets/images/20240905/20240905 (7).png",
       "alt": "宣传视频截图",
       "title": {
         "zh": "宣传视频截图",

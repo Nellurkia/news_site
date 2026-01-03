@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251122",
   "startDate": "2025-11-22",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Wuhan: 2025 2nd Central China Hemophilia Cooperation and Exchange Conference"
   },
   "subtitle": {
-    "zh": "多省市组织赋能会",
-    "en": "Multi-provincial and Municipal Organization Empowerment Conference"
+    "zh": ["公益活动", "科普教育"],
+    "en": ["Charity Activity", "Educational Activity"]
   },
   "description": {
     "zh": "2025华中区第二届血友病合作交流会暨多省市组织赋能会在武汉举行。左钰洁以“关爱女性血友病患者 国内外最新进展”为题，展开公益科普宣讲，分享国内外在女性血友病患者关爱领域的最新研究进展和实践经验。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20251122/20251122 (1)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (1)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (1).jpg",
       "alt": "合照",
       "title": {
         "zh": "华中区血友病合作交流会合照",
@@ -30,7 +30,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (2)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (2)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (2).jpg",
       "alt": "宣讲照片",
       "title": {
         "zh": "公益科普宣讲",
@@ -43,7 +43,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (3)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (3)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (3).jpg",
       "alt": "宣讲互动照片",
       "title": {
         "zh": "宣讲互动交流",
@@ -56,7 +56,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (4)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (4)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (4).jpg",
       "alt": "宣讲",
       "title": {
         "zh": "学术宣讲现场",
@@ -69,7 +69,7 @@
     },
     {
       "thumbnail": "assets/images/20251122/20251122 (5)_thumbnail.jpg",
-      "full": "assets/images/20251122/20251122 (5)_thumbnail.jpg",
+      "full": "assets/images/20251122/20251122 (5).jpg",
       "alt": "合照",
       "title": {
         "zh": "会议合影",

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20240910",
   "startDate": "2024-09-10",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Online: 'Carrier Testing Assistance' Project Fundraising Success"
   },
   "subtitle": {
-    "zh": "5天内募集35,000余元善款",
-    "en": "Raised Over 35,000 Yuan in 5 Days"
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
   },
   "description": {
     "zh": "《携带者检测援助》项目在腾讯公益平台上线仅5天时间，就成功募集到35,000多元善款，超额完成了预期目标。这一成果充分体现了社会各界对血友病女性群体的关注和支持，为后续开展更多血友病女性关爱活动奠定了坚实的资金基础。",
@@ -17,7 +17,7 @@
   "images": [
     {
       "thumbnail": "assets/images/20240910/20240910_thumbnail.png",
-      "full": "assets/images/20240910/20240910_thumbnail.png",
+      "full": "assets/images/20240910/20240910.png",
       "alt": "募资成功截图",
       "title": {
         "zh": "项目募资成功",

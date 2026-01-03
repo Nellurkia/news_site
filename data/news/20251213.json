@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "20251213",
   "startDate": "2025-12-13",
   "endDate": null,
@@ -7,8 +7,8 @@
     "en": "Yujie (Ruby) Zuo Awarded WFH Susan Skinner Memorial Fund Scholarship"
   },
   "subtitle": {
-    "zh": "女性领导力能力建设荣誉",
-    "en": "Women's Leadership Capacity Building Honor"
+    "zh": ["荣誉奖项", "国际交流"],
+    "en": ["Award & Honor", "International Exchange"]
   },
   "description": {
     "zh": "左钰洁获评世界血友病联盟（WFH）Susan Skinner Memorial Fund Scholarship。这是一个WFH官方女性领导力能力建设荣誉和项目，将以scholar/fellow/participant身份参与，致力于培养血友病领域的女性领导者，推动全球血友病事业的发展。",
