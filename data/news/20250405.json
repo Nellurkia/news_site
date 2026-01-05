@@ -16,8 +16,8 @@
   },
   "images": [
     {
-      "thumbnail": "assets/images/20250405/20250405 (1)_thumbnail.png",
-      "full": "assets/images/20250405/20250405 (1).png",
+      "thumbnail": "assets/images/20250405/20250405 (1)_thumbnail.jpg",
+      "full": "assets/images/20250405/20250405 (1).jpg",
       "alt": "小红书帖子截图",
       "title": {
         "zh": "小红书爆款帖子",
@@ -29,8 +29,8 @@
       }
     },
     {
-      "thumbnail": "assets/images/20250405/20250405 (2)_thumbnail.png",
-      "full": "assets/images/20250405/20250405 (2).png",
+      "thumbnail": "assets/images/20250405/20250405 (2)_thumbnail.jpg",
+      "full": "assets/images/20250405/20250405 (2).jpg",
       "alt": "帖子评论截图",
       "title": {
         "zh": "帖子评论互动",

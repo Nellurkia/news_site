@@ -1,0 +1,160 @@
+{
+  "id": "20250730",
+  "startDate": "2025-07-30",
+  "endDate": null,
+  "title": {
+    "zh": "小粉盖·为爱特调公益计划",
+    "en": "Pink Cap · Specially Blended for Love Charity Program"
+  },
+  "subtitle": {
+    "zh": ["公益活动"],
+    "en": ["Charity Activity"]
+  },
+  "description": {
+    "zh": "康泽慈善基金会和南昌市血之友公益协会联袂推出「小粉盖·为爱特调」公益计划，为近百名女性血友病携带者捐赠一年份海天铁强化酱油，同时制作科普图文卡片，叙述女性月经过多带来的缺铁性贫血，强调有月经异常女性的补铁需要，鼓励更多有出血性疾病或相关困扰的女性关注自身月经出血量，早日进行凝血和贫血相关检测，并积极改善自身健康。",
+    "en": "Kangze Charity Foundation and Nanchang Hemophilia Association jointly launched the 'Pink Cap · Specially Blended for Love' charity program, donating a year's supply of Haitian iron-fortified soy sauce to nearly 100 female hemophilia carriers. At the same time, educational graphic cards were created to describe iron deficiency anemia caused by excessive menstrual bleeding in women, emphasizing the need for iron supplementation in women with abnormal menstruation, and encouraging more women with bleeding disorders or related concerns to pay attention to their menstrual blood volume, undergo coagulation and anemia-related tests as soon as possible, and actively improve their health."
+  },
+  "images": [
+    {
+      "thumbnail": "assets/images/20250730/20250730 (1)_thumbnail.jpg",
+      "full": "assets/images/20250730/20250730 (1).jpg",
+      "alt": "小粉盖公益计划",
+      "title": {
+        "zh": "小粉盖·为爱特调",
+        "en": "Pink Cap · Specially Blended for Love"
+      },
+      "description": {
+        "zh": "小粉盖公益计划宣传图",
+        "en": "Pink Cap charity program promotional image"
+      }
+    },
+
+        {
+      "thumbnail": "assets/images/20250730/20250730 (1)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (1).png",
+      "alt": "小粉盖公益计划",
+      "title": {
+        "zh": "小粉盖·为爱特调",
+        "en": "Pink Cap · Specially Blended for Love"
+      },
+      "description": {
+        "zh": "小粉盖公益计划宣传图",
+        "en": "Pink Cap charity program promotional image"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (2)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (2).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "月经过多与缺铁性贫血科普",
+        "en": "Education on excessive menstruation and iron deficiency anemia"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (3)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (3).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "补铁需求科普",
+        "en": "Education on iron supplementation needs"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (4)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (4).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "健康检测建议",
+        "en": "Health screening recommendations"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (5)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (5).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "女性健康关注",
+        "en": "Women's health awareness"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (6)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (6).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "公益计划详情",
+        "en": "Charity program details"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (7)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (7).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "铁强化酱油介绍",
+        "en": "Iron-fortified soy sauce introduction"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (8)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (8).png",
+      "alt": "科普卡片",
+      "title": {
+        "zh": "科普图文卡片",
+        "en": "Educational Graphic Card"
+      },
+      "description": {
+        "zh": "公益计划总结",
+        "en": "Charity program summary"
+      }
+    },
+    {
+      "thumbnail": "assets/images/20250730/20250730 (9)_thumbnail.png",
+      "full": "assets/images/20250730/20250730 (9).png",
+      "alt": "受益者合照",
+      "title": {
+        "zh": "受益者与小粉盖合照",
+        "en": "Beneficiaries with Pink Cap"
+      },
+      "description": {
+        "zh": "受益者和小粉盖铁强化酱油合照",
+        "en": "Beneficiaries posing with Pink Cap iron-fortified soy sauce"
+      }
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "url": "https://haday-kangze.com/pink-cap/439.html",
+      "title": {
+        "zh": "小粉盖公益计划详情",
+        "en": "Pink Cap Charity Program Details"
+      }
+    }
+  ]
+}
